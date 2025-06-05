@@ -1,0 +1,1952 @@
+ [
+  {
+    "Provision": "BBNJ, Article 3",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must conserve and sustainably use the marine biodiversity of areas beyond any national jurisdiction.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 4",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Disability: Cannot impose obligations under BBNJ on warships, military aircraft, or naval auxiliaries.",
+    "Actor-Affected (Target)": "Military Actors"
+  },
+  {
+    "Provision": "BBNJ, Article 5(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must interpret and apply the Agreement consistently with the Convention, preserving rights over the EEZ and continental shelf.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 5(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote coherence and coordination with other legal instruments, frameworks and bodies.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 5(3)",
+    "Actor‑Holder": "Non‑parties to BBNJ",
+    "Action": "Immunity: Not bound by the Agreement’s provisions or enforcement measures.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 6",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Immunity: Cannot use the Agreement to assert or deny sovereignty, sovereign rights, or jurisdiction.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 8(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must cooperate for the conservation and sustainable use of marine biodiversity beyond national jurisdiction.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 8(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote Agreement objectives in other relevant decision-making processes.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 8(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote cooperation in marine scientific research and technology transfer.",
+    "Actor-Affected (Target)": "Scientific and Research Community"
+  },
+  {
+    "Provision": "BBNJ, Article 9(a)",
+    "Actor‑Holder": "Resource-Providing Party to BBNJ",
+    "Action": "Claim‑Right: Entitled to fair and equitable sharing of benefits from MGR and DSI use.",
+    "Actor-Affected (Target)": "Utilizing Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 9(a)",
+    "Actor‑Holder": "Resource User",
+    "Action": "Duty: Must share non-monetary and monetary benefits from MGR and DSI use on mutually agreed terms.",
+    "Actor-Affected (Target)": "Resource‑providing Party"
+  },
+  {
+    "Provision": "BBNJ, Article 9(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must build and develop capacity for MGR and DSI activities.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 9(b)",
+    "Actor‑Holder": "Developing Party to BBNJ",
+    "Action": "Claim‑Right: Entitled to receive capacity-building and technical support for MGR activities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 9(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must generate knowledge and scientific understanding and promote innovation through marine scientific research.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 9(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must develop and transfer marine technology to support MGR and DSI activities.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 9(d)",
+    "Actor‑Holder": "Resource User",
+    "Action": "Claim‑Right: Entitled to access marine technology on fair and reasonable terms.",
+    "Actor-Affected (Target)": "Resource‑providing Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 10(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must apply Agreement to MGR and DSI collected or generated after entry into force.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 10(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May exclude pre-entry activities via written exception.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 10(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Immunity: Not subject to obligations under this Part for fishing-related activities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 10(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure fish/living marine resources harvested for utilization, if regulated under Part II, comply with that Part.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 10(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Immunity: Not subject to obligations under this Part for military activities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 11(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Privilege: May undertake lawful MGR and DSI activities in accordance with the Agreement.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 11(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must carry out MGR and DSI activities in accordance with the Agreement.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 11(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote cooperation in all MGR and DSI activities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 11(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure collection of MGR respects rights of coastal and other States.",
+    "Actor-Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "BBNJ, Article 11(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Disability: Cannot claim or exercise sovereignty over MGR in ABNJ.",
+    "Actor-Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "BBNJ, Article 11(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Disability: Collection in situ of MGR does not justify territorial claims.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 11(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure MGR and DSI activities benefit all humanity.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 11(7)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must carry out MGR and DSI activities exclusively for peaceful purposes.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure MGR-related information is notified to the Clearing-House Mechanism.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify the nature and objectives of MGR and DSI collection.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify the subject matter and targeted MGR and their purposes.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify the geographical areas of collection.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify summary of collection methods and means.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify contributions to proposed MGR project.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(f)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify expected dates of vessel or equipment operations.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(g)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify sponsoring institutions and responsible person(s).",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(h)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify opportunities for scientific involvement.",
+    "Actor-Affected (Target)": "Scientific and Research Community"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify how States needing technical assistance may participate.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 12(2)(j)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify data management plan aligned with good governance.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(3)",
+    "Actor‑Holder": "Clearing-House",
+    "Action": "Duty: Must assign standardized batch identifiers for notifications.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must update information upon material change prior to collection.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify additional information within one year of collection.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure samples in repositories are identifiable as ABNJ origin.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(7)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure ABNJ origin of MGR/DSI is traceable in repositories and databases.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify results of MGR and DSI utilization (e.g., publications).",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify post-collection updates regarding utilized MGR.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify where the original MGR sample is held.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify access modalities and data management plan for MGR/DSI.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 12(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify information on marketed products from MGR.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 13 – (a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure traditional knowledge is accessed only with free, prior and informed consent.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 13 – (b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must facilitate access to traditional knowledge via the Clearing-House Mechanism.",
+    "Actor-Affected (Target)": "Potential users of traditional knowledge"
+  },
+  {
+    "Provision": "BBNJ, Article 13 – (c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure access and use of traditional knowledge is based on mutually agreed terms.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 14(1)",
+    "Actor‑Holder": "Resource-Providing Party to BBNJ",
+    "Action": "Claim‑Right: Entitled to fair and equitable sharing of benefits from MGR and DSI.",
+    "Actor-Affected (Target)": "Parties utilizing the resources"
+  },
+  {
+    "Provision": "BBNJ, Article 14(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must share non-monetary benefits arising from MGR utilization.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must deposit MGR and DSI in accessible repositories within three years of utilization.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 14(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure the use of a standardized BBNJ batch identifier for all utilized MGRs and their DSI.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 14(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must regulate repository access under fair and reasonable conditions.",
+    "Actor-Affected (Target)": "Users of MGR and DSI"
+  },
+  {
+    "Provision": "BBNJ, Article 14(5)",
+    "Actor‑Holder": "Resource-Providing Party to BBNJ",
+    "Action": "Duty: Must share monetary benefits from MGR and DSI through a financial mechanism.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(6)",
+    "Actor‑Holder": "Developed Party to BBNJ",
+    "Action": "Duty: Must make annual contributions to a special fund.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(7)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must decide on equitable modalities for benefit sharing.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May delay new benefit-sharing modalities for up to four years while continuing payment obligations.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(9)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must consider recommendations of the Access and Benefit-Sharing Committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(10)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must review monetary benefits from MGR and DSI every two years.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 14(11)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must adopt measures to ensure compliance with benefit-sharing obligations.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 15(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must establish an Access and Benefit-Sharing Committee.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 15(1)",
+    "Actor‑Holder": "Access and Benefit-Sharing Committee",
+    "Action": "Power: May establish guidelines for benefit-sharing (monetary and non-monetary).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 15(1)",
+    "Actor‑Holder": "Access and Benefit-Sharing Committee",
+    "Action": "Power: May consult and share benefit-sharing practices with legal instruments and bodies.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 15(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: Must nominate and elect the Committee members.",
+    "Actor-Affected (Target)": "Institutional Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 15(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must develop the terms of reference and modalities for the operation of the committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 15(3)",
+    "Actor‑Holder": "Access and Benefit-Sharing Committee",
+    "Action": "Power: May recommend on benefit-sharing measures and financial mechanisms.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 15(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must make available all information required under the Agreement, including details concerning national focal points.",
+    "Actor-Affected (Target)": "Institutional Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 16(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify MGR and DSI activities using BBNJ batch identifiers.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 16(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must submit periodic reports on MGR/DSI activities and benefit-sharing.",
+    "Actor-Affected (Target)": "Institutional Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 16(3)",
+    "Actor‑Holder": "Access and Benefit-Sharing Committee",
+    "Action": "Duty: Must prepare a report based on Clearing-House information.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 16(3)",
+    "Actor‑Holder": "Access and Benefit-Sharing Committee",
+    "Action": "Power: May submit the report and comments to the COP for implementation review.",
+    "Actor-Affected (Target)": "Institutional Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 16(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May determine appropriate guidelines for the implementation of this Article.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 17(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must conserve and sustainably use areas through area-based management tools.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 17(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must strengthen cooperation and coordination in the use of management tools.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 17(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must protect, preserve, restore, and maintain biological diversity and ecosystems.",
+    "Actor-Affected (Target)": "Global biological diversity"
+  },
+  {
+    "Provision": "BBNJ, Article 17(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must support food security, socioeconomic objectives, and cultural values.",
+    "Actor-Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 17(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must support developing States with capacity-building and marine technology.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 18",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Disability: Cannot assert sovereignty using area-based management tools.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 19(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must submit proposals for area-based management tools.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consult stakeholders in the development of proposals.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 19(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must base proposals on best science and traditional knowledge.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must provide a geographic or spatial description of the area.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must describe criteria used for identifying the area.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must describe human activities in the area.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must describe the state of the marine environment and biodiversity.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must define conservation and sustainable use objectives for the area.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(f)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must submit a draft management plan for the area.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(g)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must specify the duration of the area and its measures.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(h)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must document consultations undertaken with stakeholders.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must include information on tools under relevant frameworks.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(4)(j)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must include scientific and traditional knowledge input.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 19(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must apply indicative criteria as developed under Annex I.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 19(6)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May elaborate proposal content and criteria application modalities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 20",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must publish proposal and transmit it to Scientific and Technical Body for preliminary review. ",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 20",
+    "Actor‑Holder": "Scientific and Technical Body ",
+    "Action": "Duty: Must review proposals to ensure they contain required information. ",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 21(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure stakeholder consultations are inclusive, transparent, and open.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(a) – (i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must notify and invite adjacent coastal States to comment on proposals.",
+    "Actor-Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(a) – (ii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must collect relevant scientific input for proposals.",
+    "Actor-Affected (Target)": "Scientific and Research Community"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(a) – (iii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must gather information on existing nearby measures.",
+    "Actor-Affected (Target)": "Relevant States and regulatory bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(a) – (iv)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must collect views on impacts for national jurisdictions.",
+    "Actor-Affected (Target)": "National or Civil Society Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must invite relevant global and regional bodies to submit views.",
+    "Actor-Affected (Target)": "Relevant Legal Instruments and Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 21(2)(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must invite input from Indigenous Peoples, local communities, civil society, and scientists.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 21(3)",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must publish all consultation contributions.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 21(4)(a)",
+    "Actor‑Holder": "Proponent",
+    "Action": "Duty: Must consult coastal States if areas are surrounded by EEZs.",
+    "Actor-Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "BBNJ, Article 21(5)",
+    "Actor‑Holder": "Proponent",
+    "Action": "Duty: Must revise proposals based on consultation feedback.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 21(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure consultations occur within set timeframes.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 21(7)",
+    "Actor‑Holder": "Proponent",
+    "Action": "Duty: Must submit revised proposal to the Scientific and Technical Body.",
+    "Actor-Affected (Target)": "Scientific and Research Community"
+  },
+  {
+    "Provision": "BBNJ, Article 21(8)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May elaborate consultation and assessment modalities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(1)(a)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must decide on area-based tools based on final proposals.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(1)(b)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May adopt measures compatible with other legal instruments.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(1)(c)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May recommend measures to Parties and other competent bodies.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must respect and not undermine other legal frameworks.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must arrange regular consultations with relevant bodies.",
+    "Actor-Affected (Target)": "Relevant Legal Instruments and Bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 22(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May develop a mechanism to align with other bodies’ tools.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(5)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must not undermine national jurisdiction or coastal rights.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 22(6)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must terminate agreement governance over areas falling into national jurisdiction.",
+    "Actor-Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 22(7)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must maintain existing tools until formal review if competence changes.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must take decisions and recommendations by consensus.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must use majority fallback if consensus is exhausted.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must comply with decisions 120 days after meeting.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May object within 120 days; decision not binding on them.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must provide written, reasoned objection.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must adopt equivalent alternative measures if practicable.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(7)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must report on alternative measures at next meeting.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(8)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Disability: Cannot renew objection more frequently than every 3 years.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(9)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider objection withdrawn if no renewal is made.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 23(10)",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must publish all decisions and objections.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 24(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must adopt emergency measures if disaster causes harm.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 24(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must consult and confirm necessity of emergency measures.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 24(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must base emergency measures on science, ensure temporariness and review.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 24(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Emergency measures terminate after two years or earlier.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 24(5)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must elaborate inclusive procedures for emergency measures.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 25(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure compliance of national activities with adopted decisions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 25(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May adopt stricter national measures for their nationals or vessels.",
+    "Actor-Affected (Target)": "National or Civil Society Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 25(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must avoid disproportionate burdens on SIDS and LDCs.",
+    "Actor-Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 25(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote legal measures supporting COP decisions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 25(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must encourage States in managed areas to support COP measures.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 25(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must cooperate in conservation even if not party to other instruments.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 26(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must report on area-based tools protecting MGR habitats.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 26(1)",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must make implementation reports public.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 26(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must invite legal bodies to share implementation information.",
+    "Actor-Affected (Target)": "Global regulatory bodies"
+  },
+  {
+    "Provision": "BBNJ, Article 26(3)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must monitor and review area-based tools.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 26(4)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must assess effectiveness of area-based tools and advise Parties.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 26(5)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must decide on amending/extending/revoking tools after review.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 27(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must operationalize EIA processes in ABNJ.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 27(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must assess activities to prevent/mitigate marine harm.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 27(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must provide for strategic environmental assessments (SEA).",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 27(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must achieve coherent EIA frameworks.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 27(f)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must build EIA capacity.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 28(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must assess potential impacts before authorization.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 28(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure EIA for substantially harmful planned activities.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 28(2)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must share EIA data via Clearing-House Mechanism.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 28(2)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must monitor the activity per EIA process.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 28(2)(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must make EIA and monitoring reports public via CHM.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 28(3)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May comment on EIA reports.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 29(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote EIA standards in legal instruments.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 29(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must create collaboration mechanisms with legal bodies.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 29(3)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must collaborate in setting/updating EIA standards.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 29(4)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May skip EIA if impacts were assessed by others.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 29(4)(b)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May adopt prior EIA results as equivalent.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 29(4)(b)(ii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May skip EIA if existing standards cover impacts.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 29(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish EIAs conducted under other instruments.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 29(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must monitor/report activities not covered elsewhere.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 30(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must screen activities with more than minor or transitory effects.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 30(1)(a)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must describe planned activity in detail.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 30(1)(a)(ii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must include initial impact and alternative analysis.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 30(1)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must conduct full EIA if screening reveals potential significant harm.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 30(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must assess multiple factors when determining EIA threshold.",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must undertake timely screening and publish results.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish rationale for not requiring EIA.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(ii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must allow Parties to register scientific/traditional knowledge-based views.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(iii)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must review decision if concerns are raised.",
+    "Actor-Affected (Target)": "Concerned Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(iv)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May evaluate potential impacts and recommend action.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(v)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider recommendations from the Scientific Body.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(a)(vi)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must make views and recommendations public.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure EIA scoping identifies all key environmental issues.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must conduct impact assessment using best science and traditional knowledge.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must include measures for prevention, mitigation, and management.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure public notification and consultation.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(f)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must prepare and publish the EIA report.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 31(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May conduct joint EIAs, particularly for SIDS.",
+    "Actor-Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 31(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: May seek expert advice from roster if capacity is limited. ",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 32(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure timely public notification and participation opportunities.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 32(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must identify and invite most affected States.",
+    "Actor-Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 32(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must invite broad stakeholder participation.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 32(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure consultations are inclusive, transparent, time-bound.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 32(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider and respond to substantive consultation comments.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 32(6)",
+    "Actor‑Holder": "Proponent",
+    "Action": "Duty: Must consult surrounding States for activities near EEZs.",
+    "Actor-Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "BBNJ, Article 32(7)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure access to EIA-related information.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must prepare an EIA report for each EIA conducted.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must include essential content in the EIA report.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must make draft EIA report available via CHM.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider Scientific and Technical Body comments on draft.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish final EIA report and notify all Parties.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(6)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must use final EIA reports to develop guidelines.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 33(7)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must review screening info for guideline development.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 34(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must determine whether an activity may proceed.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 34(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must base authorization on full EIA and mitigation info.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 34(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish decision documents with conditions via CHM.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 34(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May provide advice and assistance on activity authorization.",
+    "Actor-Affected (Target)": "Proponent or Requesting Party"
+  },
+  {
+    "Provision": "BBNJ, Article 35",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must monitor environmental and associated impacts of authorized activities.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 36(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must periodically report on activity impacts and monitoring results.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 36(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish monitoring reports via the Clearing‑House Mechanism.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 36(3)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must evaluate monitoring reports to develop best practices.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must periodically review impacts of authorized activities.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must act if significant unanticipated adverse impacts occur.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(3)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May notify and recommend action to the authorizing Party.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 37(4)(a)",
+    "Actor‑Holder": "Affected Party",
+    "Action": "Liberty: May register concerns over adverse impacts.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 37(4)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider registered concerns.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(4)(c)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May evaluate concerns and notify if adverse impacts likely.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 37(4)(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish all concerns, notifications, recommendations.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(4)(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider STB notifications and recommendations.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must keep all States informed and allow consultation.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 37(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must publish review reports and decision documents.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(a)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for determining if screening/EIA thresholds are met.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(b)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for assessing cumulative impacts.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(c)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for assessing national jurisdiction impacts.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(d)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for public notification and consultation (Art. 32).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(e)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for EIA report content and publication.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(f)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for monitoring and reporting (Art. 35–36).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(1)(g)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must develop guidelines for strategic environmental assessments.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(2)(a)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May develop list of activities requiring/no EIA.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 38(2)(b)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Power: May develop EIA guidelines for sensitive areas.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 39(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must consider strategic environmental assessments (SEAs).",
+    "Actor-Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "BBNJ, Article 39(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May conduct SEA of region and identify priorities.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 39(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must take into account SEA results when conducting EIAs.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 39(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must develop guidance for strategic environmental assessments.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 40(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must assist developing States in implementation.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 40(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must enable inclusive cooperation and participation.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 40(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must develop scientific and technological capacity.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 40(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must increase and share knowledge on biodiversity conservation.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 40(e)(i)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must support developing States through capacity‑building and tech transfer for MGRs.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 41(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must cooperate to assist developing States in capacity-building and tech transfer.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 41(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must cooperate with stakeholders (private sector, Indigenous Peoples, etc.).",
+    "Actor-Affected (Target)": "All relevant stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 41(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must recognize developing States’ specific needs.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 42(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure capacity-building and cooperate to achieve tech transfer.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 42(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must provide resources to support capacity-building and tech transfer.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 42(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Capacity-building and tech transfer must be country-driven, transparent, effective, gender-responsive.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 42(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Capacity-building and tech transfer must reflect developing States’ needs and priorities.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 43(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must share a long-term vision for inclusive tech transfer.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 43(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure marine tech transfer on fair and favorable terms, and in accordance with mutually agreed terms and conditions.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 43(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote enabling legal/economic conditions.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 43(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must respect rights over technology in transfer process.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 43(5)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure marine tech is appropriate and accessible.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must facilitate data, knowledge, and research sharing.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must raise awareness and share traditional knowledge with FPIC.",
+    "Actor-Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(c)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must strengthen infrastructure (equipment/personnel).",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(d)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must enhance institutional/national regulatory capacity.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(e)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must build human/technical/financial capacity.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(f)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must develop and share manuals, guidelines, and standards.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(g)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must promote technical, scientific, and R&D programmes.",
+    "Actor-Affected (Target)": "Scientific and Research Community"
+  },
+  {
+    "Provision": "BBNJ, Article 44(1)(h)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must develop monitoring, control, surveillance tools.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 44(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must review and provide updated guidance on capacity-building and tech transfer list.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 45(1)",
+    "Actor‑Holder": "Capacity-Building and Technology Transfer Committee",
+    "Action": "Duty: Must monitor and review capacity‑building and tech transfer periodically.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 45(2)",
+    "Actor‑Holder": "Capacity-Building and Technology Transfer Committee",
+    "Action": "Duty: Must assess needs, support, funding, performance, effectiveness.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 45(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must assess needs, support, funding, performance, effectiveness.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 45(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must submit and publish capacity-building and tech transfer reports.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 45(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must determine the format and intervals of the reports.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 45(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must ensure that the reports are not onerous.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 46(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must establish a capacity-building and tech transfer committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 46(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must establish a capacity-building and tech transfer committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 46(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must ensure fair composition of committee (gender, geography).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 46(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure fair composition of committee (gender, geography).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 46(3)",
+    "Actor‑Holder": "Capacity-Building and Technology Transfer Committee",
+    "Action": "Duty: Must report and recommend actions to COP.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 47(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty to participate: Must establish and engage in COP.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 47(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must adopt procedures and financial rules at first meeting.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 47(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May adopt rules for new subsidiary bodies; imposes liability to comply.",
+    "Actor-Affected (Target)": "Subsidiary bodies and relevant Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 47(6)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must review Agreement implementation and adopt decisions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 48",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must ensure transparent decision‑making and information dissemination.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 49(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must establish a Scientific and Technical Body (STB).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 49(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must establish a Scientific and Technical Body (STB).",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 49(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must ensure equitable, balanced STB composition.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 49(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must ensure equitable, balanced STB composition.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 49(4)",
+    "Actor‑Holder": "Scientific and Technical Body",
+    "Action": "Duty: Must provide reports and advice to COP.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 50(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must establish a Secretariat for administrative support.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 50(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must establish a Secretariat for administrative support.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 50(4)",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must circulate implementation info and publish decisions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 51(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must establish an open-access Clearing‑House Mechanism.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 51(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Must establish an open-access Clearing‑House Mechanism.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 51(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May determine modalities for Clearing‑House.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 51(6)",
+    "Actor‑Holder": "Clearing-House",
+    "Action": "Duty: Must protect confidentiality of submitted information.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Provide resources within capabilities for achieving Agreement objectives.",
+    "Actor-Affected (Target)": "Resource Users"
+  },
+  {
+    "Provision": "BBNJ, Article 52(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Fund institutions through assessed contributions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(3)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Establish accessible, predictable financial mechanism.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 52(4)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Fund voluntary trust for developing States’ participation.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 52(4)(b)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: Support special fund through annual/additional contributions.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(5)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May establish additional conservation/restoration funds.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(6)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Use funds to support multiple activities including Indigenous and MGR efforts.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 52(7)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Avoid duplication and promote complementarity in funding.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(9)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Financial mechanism must operate under COP authority.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(10)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Agree with GEF on implementation arrangements.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(11)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Set initial resource mobilization goal through 2030.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(12)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Ensure equitable access to funding for developing States.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 52(13)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Encourage preferential treatment in funding for developing States.",
+    "Actor-Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "BBNJ, Article 52(14)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Establish finance committee for fund oversight.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(15)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Act on finance committee recommendations.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 52(16)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Periodically review financial mechanism effectiveness.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 53",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Adopt national measures to implement the Agreement.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 54",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Monitor and report on implementation to the COP.",
+    "Actor-Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 55(1)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Establish Implementation and Compliance Committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 55(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Establish Implementation and Compliance Committee.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 55(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Elect qualified committee members.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 55(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Elect qualified committee members.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 55(3)",
+    "Actor‑Holder": "Implementation and Compliance Committee",
+    "Action": "Duty: Report and recommend to COP.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 55(4)",
+    "Actor‑Holder": "Implementation and Compliance Committee",
+    "Action": "Power: Draw on external information.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 56",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Cooperate to prevent disputes.",
+    "Actor-Affected (Target)": "States stakeholders"
+  },
+  {
+    "Provision": "BBNJ, Article 57",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Settle disputes peacefully.",
+    "Actor-Affected (Target)": "Disputing Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 58",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Liberty: Choose any peaceful dispute mechanism.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 59",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Power: Refer technical disputes to expert panel.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 60(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Follow Convention Part XV procedures.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 60(2)-(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Power: Choose designated dispute settlement forum.",
+    "Actor-Affected (Target)": "Disputing Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 60(9)-(10)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Immunity: No jurisdiction over sovereignty disputes.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 61",
+    "Actor‑Holder": "Disputing Party to BBNJ",
+    "Action": "Duty: Agree on provisional arrangements.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 62",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Encourage non‑Parties to join and adopt consistent laws.",
+    "Actor-Affected (Target)": "Non‑Parties"
+  },
+  {
+    "Provision": "BBNJ, Article 63",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Act in good faith and not abuse rights.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 74(1)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Treat annexes as integral.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 74(2)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Apply Article 72 amendment rules to annexes.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 74(3)(a)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Notify annex amendments 150 days prior.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 74(3)(b)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Ensure entry into force 180 days post-adoption.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  },
+  {
+    "Provision": "BBNJ, Article 74(4)",
+    "Actor‑Holder": "Contracting Party to BBNJ",
+    "Action": "Duty: Manage objections to annex amendments.",
+    "Actor-Affected (Target)": "Other Contracting Parties to BBNJ"
+  }
+]

@@ -1,0 +1,602 @@
+ [
+  {
+    "Provision": "CBD Article 3",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Liberty to exploit own resources under environmental policies ",
+    "Actor‑Affected (Target)": "Other States must refrain from interfering"
+  },
+  {
+    "Provision": "CBD Article 3",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Claim‑Right to exploit own resources under environmental policies",
+    "Actor‑Affected (Target)": "Other States must refrain from interfering"
+  },
+  {
+    "Provision": "CBD Article 3",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Power to determine access and regulate exploitation of resources",
+    "Actor‑Affected (Target)": "Other States and external actors"
+  },
+  {
+    "Provision": "CBD Article 3",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Liberty to exploit own resources without external interference",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "CBD Article 3",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to avoid causing environmental harm",
+    "Actor‑Affected (Target)": "Other States and the global environment"
+  },
+  {
+    "Provision": "CBD Article 4(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to conserve biodiversity components within jurisdiction",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 4(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to regulate activities under jurisdiction regardless of location of effects",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 5",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to cooperate for conservation and sustainable use",
+    "Actor‑Affected (Target)": "Other Parties"
+  },
+  {
+    "Provision": "CBD Article 6(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to develop national biodiversity strategies",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 6(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to integrate biodiversity into sectoral policies",
+    "Actor‑Affected (Target)": "National Stakeholders"
+  },
+  {
+    "Provision": "CBD Article 7(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to identify key biodiversity components",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 7(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to monitor biodiversity components",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 7(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to identify and monitor harmful processes",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 7(d)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to manage biodiversity data",
+    "Actor‑Affected (Target)": "Research and Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 8(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to establish protected areas",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to develop protected area management guidelines",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to regulate biological resources",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(d)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to protect ecosystems and viable populations",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(e)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote sustainable development in buffer zones",
+    "Actor‑Affected (Target)": "Local Communities and Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(f)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to restore ecosystems and species",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(g)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to regulate risks from living modified organisms",
+    "Actor‑Affected (Target)": "Global Biodiversity, Human Health"
+  },
+  {
+    "Provision": "CBD Article 8(h)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to control invasive alien species",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(i)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to align present use with conservation",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(j)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to respect and maintain traditional knowledge",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "CBD Article 8(k)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to legislate protection for threatened species",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(l)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to manage harmful activities affecting biodiversity",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 8(m)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to support in-situ conservation in developing countries",
+    "Actor‑Affected (Target)": "Developing States, Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 9(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to adopt ex‑situ conservation measures",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 9(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to establish ex‑situ facilities",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 9(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to support recovery of threatened species",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 9(d)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to regulate collection for ex‑situ conservation",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 9(e)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to support ex‑situ conservation in developing countries",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 10(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to integrate biodiversity into national decision-making",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 10(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to minimise adverse biodiversity impacts",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 10(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to protect traditional uses of biological resources",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "CBD Article 10(d)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to support local remediation efforts",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "CBD Article 10(e)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to encourage public-private collaboration for sustainable use",
+    "Actor‑Affected (Target)": "Private Sector, Government"
+  },
+  {
+    "Provision": "CBD Article 11",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to adopt incentive measures for conservation and sustainable use",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 12(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide education/training in conservation and sustainable use",
+    "Actor‑Affected (Target)": "Developing States, Research Community"
+  },
+  {
+    "Provision": "CBD Article 12(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote biodiversity research",
+    "Actor‑Affected (Target)": "Research Community"
+  },
+  {
+    "Provision": "CBD Article 12(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to cooperate in applying research to conservation",
+    "Actor‑Affected (Target)": "Global Research Community"
+  },
+  {
+    "Provision": "CBD Article 13(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote public understanding of biodiversity",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 13(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to cooperate in biodiversity education programmes",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 14(1)(a)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to require environmental impact assessments",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 14(1)(b)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to assess environmental consequences of policies",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 14(1)(c)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to notify and consult on activities affecting biodiversity",
+    "Actor‑Affected (Target)": "Other States, Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 14(1)(d)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to notify of imminent danger and act to prevent harm",
+    "Actor‑Affected (Target)": "Other States, Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 14(1)(e)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to establish emergency response and promote joint contingency plans",
+    "Actor‑Affected (Target)": "Other States, Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 14(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to examine liability and redress",
+    "Actor‑Affected (Target)": "Affected States, Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 15(1)",
+    "Actor‑Holder": "National Government",
+    "Action": "Liberty over genetic resources",
+    "Actor‑Affected (Target)": "Potential resource users"
+  },
+  {
+    "Provision": "CBD Article 15(1)",
+    "Actor‑Holder": "National Government",
+    "Action": "Power to regulate access",
+    "Actor‑Affected (Target)": "Potential resource users"
+  },
+  {
+    "Provision": "CBD Article 15(1)",
+    "Actor‑Holder": "Potential Resource Users",
+    "Action": "Duty to comply with national access rules",
+    "Actor‑Affected (Target)": "National Government"
+  },
+  {
+    "Provision": "CBD Article 15(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to facilitate access for environmentally sound uses",
+    "Actor‑Affected (Target)": "Other Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 15(4)",
+    "Actor‑Holder": "Providing Party",
+    "Action": "Power to set mutually agreed terms",
+    "Actor‑Affected (Target)": "Requesting Party"
+  },
+  {
+    "Provision": "CBD Article 15(5)",
+    "Actor‑Holder": "Providing Party",
+    "Action": "Power to require prior informed consent",
+    "Actor‑Affected (Target)": "Requesting Party"
+  },
+  {
+    "Provision": "CBD Article 15(6)",
+    "Actor‑Holder": "Receiving Party",
+    "Action": "Duty to involve providing Party in research",
+    "Actor‑Affected (Target)": "Providing Party"
+  },
+  {
+    "Provision": "CBD Article 15(7)",
+    "Actor‑Holder": "Receiving Party",
+    "Action": "Duty to ensure equitable benefit-sharing",
+    "Actor‑Affected (Target)": "Providing Party"
+  },
+  {
+    "Provision": "CBD Article 16(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide access to technology",
+    "Actor‑Affected (Target)": "Other Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 16(2) - Line 1",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide technology on fair and concessional terms",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 16(2) - Line 2",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to ensure effective protection of IP rights",
+    "Actor‑Affected (Target)": "Patent holders"
+  },
+  {
+    "Provision": "CBD Article 16(3)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to facilitate technology access for providers",
+    "Actor‑Affected (Target)": "Providers of Genetic Resources"
+  },
+  {
+    "Provision": "CBD Article 16(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to ensure private sector supports technology transfer",
+    "Actor‑Affected (Target)": "Private Sector and Other Parties"
+  },
+  {
+    "Provision": "CBD Article 16(5)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to align IP with biodiversity goals",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 17(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to facilitate information exchange",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 17(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to include research and traditional knowledge in information exchange",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 18(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote international technical and scientific cooperation",
+    "Actor‑Affected (Target)": "Other Parties"
+  },
+  {
+    "Provision": "CBD Article 18(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to support national capacity-building in developing countries",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 18(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Power to establish a clearing-house mechanism",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 18(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to encourage cooperation in technology development",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 18(5)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote joint research and ventures",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 19(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to ensure participation in biotechnological research",
+    "Actor‑Affected (Target)": "Resource-providing Parties; developing states"
+  },
+  {
+    "Provision": "CBD Article 19(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to promote equitable access to biotechnology benefits",
+    "Actor‑Affected (Target)": "Resource-providing Parties"
+  },
+  {
+    "Provision": "CBD Article 19(3)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to consider need for biosafety protocol",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 19(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to share safety information on biotechnology",
+    "Actor‑Affected (Target)": "Affected Parties"
+  },
+  {
+    "Provision": "CBD Article 20(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide financial support",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "CBD Article 20(2)",
+    "Actor‑Holder": "Developed States",
+    "Action": "Duty to provide additional financial resources",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 20(3)",
+    "Actor‑Holder": "Developed States",
+    "Action": "Duty to provide financial resources through diverse channels",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 20(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide support for effective implementation",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 20(5)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to consider special needs of least developed countries",
+    "Actor‑Affected (Target)": "Least Developed Countries"
+  },
+  {
+    "Provision": "CBD Article 20(6)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to consider biodiversity distribution in funding",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 20(7)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to consider needs of vulnerable developing countries",
+    "Actor‑Affected (Target)": "Small Island and Vulnerable Countries"
+  },
+  {
+    "Provision": "CBD Article 21(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to provide access to financial resources",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "CBD Article 21(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power to set financial policy and criteria",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 21(3)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty to review financial mechanism",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 21(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to strengthen financial institutions",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 22(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to implement CBD without conflicting with other agreements",
+    "Actor‑Affected (Target)": "Other Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 22(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to implement CBD consistently with the law of the sea",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 23(1)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Power to establish and convene COP",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 23(2)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Power to request extraordinary meetings",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 23(3)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to agree on procedural and financial rules",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 23(4)",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to review Convention implementation",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 24(1)",
+    "Actor‑Holder": "COP, Secretariat",
+    "Action": "Duty to service COP and coordinate implementation",
+    "Actor‑Affected (Target)": "COP, Global stakeholders"
+  },
+  {
+    "Provision": "CBD Article 24(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power to designate the Secretariat",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 25(1)",
+    "Actor‑Holder": "COP, Contracting Party to CBD",
+    "Action": "Power to establish a subsidiary scientific body",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "CBD Article 25(2)(a)",
+    "Actor‑Holder": "Subsidiary Body",
+    "Action": "Duty to provide biodiversity assessments",
+    "Actor‑Affected (Target)": "COP, Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 25(2)(b)",
+    "Actor‑Holder": "Subsidiary Body",
+    "Action": "Duty to assess effects of biodiversity measures",
+    "Actor‑Affected (Target)": "COP, Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 25(2)(c)",
+    "Actor‑Holder": "Subsidiary Body",
+    "Action": "Duty to identify and advise on technologies",
+    "Actor‑Affected (Target)": "COP, Contracting Parties"
+  },
+  {
+    "Provision": "CBD Article 25(2)(d)",
+    "Actor‑Holder": "Subsidiary Body",
+    "Action": "Duty to advise on scientific cooperation",
+    "Actor‑Affected (Target)": "COP, Global Community"
+  },
+  {
+    "Provision": "CBD Article 25(2)(e)",
+    "Actor‑Holder": "Subsidiary Body",
+    "Action": "Duty to respond to scientific/technical questions",
+    "Actor‑Affected (Target)": "COP"
+  },
+  {
+    "Provision": "CBD Article 26",
+    "Actor‑Holder": "Contracting Party to CBD",
+    "Action": "Duty to submit implementation reports",
+    "Actor‑Affected (Target)": "COP, Global stakeholders"
+  }
+]

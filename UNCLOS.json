@@ -1,0 +1,1238 @@
+ [
+  {
+    "Provision": "UNCLOS Article 2(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim‑Right to exercise sovereignty over the territorial sea",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 2(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate MGR-related activities in the territorial sea",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 2(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim‑Right to sovereignty over airspace, seabed, and subsoil",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 2(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim‑Right to exercise sovereignty subject to international law",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 56(1)(a)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim‑Right to manage and exploit natural resources (including MGRs) in the EEZ",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 56(1)(b)(ii)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to authorise and regulate marine scientific research in the EEZ",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 56(1)(b)(iii)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to enforce environmental protection measures in the EEZ",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 56(1)(b)(i)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate installations and structures in the EEZ",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 56(1)(c)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim‑Right to other rights and duties under UNCLOS",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 56(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to have due regard for the rights and duties of other States",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 56(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to exercise seabed and subsoil rights per Part VI",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 58(1)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to navigate, overfly, and conduct lawful uses of the sea",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 58(2)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to invoke high seas provisions in EEZ unless incompatible",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 58(3)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to respect coastal State’s rights and comply with EEZ laws",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 61(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to determine allowable catch of living resources",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 61(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to prevent over-exploitation using best scientific data",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 61(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to maintain or restore populations to sustainable levels",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 61(4)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to consider impacts on dependent or associated species",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 61(5)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to share scientific information and relevant data",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 62(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to promote optimum utilisation of living resources",
+    "Actor‑Affected (Target)": "Other States / Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 62(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to determine harvesting capacity",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 62(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to grant access to surplus catch",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 62(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to consider all relevant factors in granting access",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)",
+    "Actor‑Holder": "Foreign Nationals (Fishers)",
+    "Action": "Duty to comply with coastal State fishing conditions",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(a)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to require licensing and fees",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(b)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to fix quotas and species allowed",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(c)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate seasons, areas, gear, and vessels",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(d)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate fish age and size",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(e)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to require reporting of fishing information",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(f)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate fisheries research",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers, Researchers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(g)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to place observers or trainees onboard",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(h)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to require catch to be landed in its ports",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(i)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to establish terms for joint ventures",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers), Foreign Companies"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(j)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to require training and technology transfer",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(4)(k)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to institute enforcement procedures in EEZ",
+    "Actor‑Affected (Target)": "Foreign Nationals (Fishers)"
+  },
+  {
+    "Provision": "UNCLOS Article 62(5)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to give notice of fisheries rules and measures",
+    "Actor‑Affected (Target)": "Other States, Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 63(1)",
+    "Actor‑Holder": "Coastal States with overlapping EEZs",
+    "Action": "Duty to seek agreement on shared stock conservation",
+    "Actor‑Affected (Target)": "Other Coastal States sharing the stock"
+  },
+  {
+    "Provision": "UNCLOS Article 63(2)",
+    "Actor‑Holder": "Coastal State + Distant-Water Fishing States",
+    "Action": "Duty to negotiate on straddling stocks",
+    "Actor‑Affected (Target)": "Each Other (in the adjacent high-seas area)"
+  },
+  {
+    "Provision": "UNCLOS Article 64(1)",
+    "Actor‑Holder": "Coastal State + Other States fishing HMS",
+    "Action": "Duty to cooperate on highly migratory species",
+    "Actor‑Affected (Target)": "One Another"
+  },
+  {
+    "Provision": "UNCLOS Article 64(2)",
+    "Actor‑Holder": "Coastal State + Other States fishing HMS",
+    "Action": "Disability to disregard HMS cooperation duties",
+    "Actor‑Affected (Target)": "One Another"
+  },
+  {
+    "Provision": "UNCLOS Article 65",
+    "Actor‑Holder": "Coastal State / Intl. Org (e.g. IWC)",
+    "Action": "Power to regulate or prohibit marine mammal exploitation",
+    "Actor‑Affected (Target)": "Potential Exploiters of Marine Mammals"
+  },
+  {
+    "Provision": "UNCLOS Article 65",
+    "Actor‑Holder": "State Parties dealing with marine mammals",
+    "Action": "Duty to cooperate for marine mammal conservation",
+    "Actor‑Affected (Target)": "Each Other, Marine Mammal Stocks"
+  },
+  {
+    "Provision": "UNCLOS Article 66(1)",
+    "Actor‑Holder": "State of origin of anadromous stocks",
+    "Action": "Duty to manage stocks originating in its rivers",
+    "Actor‑Affected (Target)": "Other States fishing these stocks"
+  },
+  {
+    "Provision": "UNCLOS Article 66(2)",
+    "Actor‑Holder": "State of origin of anadromous stocks",
+    "Action": "Duty to establish conservation regulations",
+    "Actor‑Affected (Target)": "Other States fishing these stocks"
+  },
+  {
+    "Provision": "UNCLOS Article 66(2)",
+    "Actor‑Holder": "State of origin of anadromous stocks",
+    "Action": "Power to set total allowable catches (TAC)",
+    "Actor‑Affected (Target)": "Other States fishing these stocks"
+  },
+  {
+    "Provision": "UNCLOS Article 66(3)(a)",
+    "Actor‑Holder": "State Parties fishing anadromous stocks",
+    "Action": "Duty to fish landward of EEZ boundary",
+    "Actor‑Affected (Target)": "State of origin, Other impacted States"
+  },
+  {
+    "Provision": "UNCLOS Article 66(3)(b)",
+    "Actor‑Holder": "State of origin of anadromous stocks",
+    "Action": "Duty to minimise economic harm",
+    "Actor‑Affected (Target)": "Other Fishing States"
+  },
+  {
+    "Provision": "UNCLOS Article 66(3)(c)",
+    "Actor‑Holder": "State of origin of anadromous stocks",
+    "Action": "Duty to give preference to contributing States",
+    "Actor‑Affected (Target)": "Contributing States"
+  },
+  {
+    "Provision": "UNCLOS Article 66(3)(d)",
+    "Actor‑Holder": "Origin State + Other Fishing States",
+    "Action": "Power to agree on enforcement beyond EEZ",
+    "Actor‑Affected (Target)": "Fishermen operating beyond the EEZ"
+  },
+  {
+    "Provision": "UNCLOS Article 66(4)",
+    "Actor‑Holder": "Coastal State receiving migrating fish",
+    "Action": "Duty to cooperate with origin State",
+    "Actor‑Affected (Target)": "State of origin"
+  },
+  {
+    "Provision": "UNCLOS Article 66(5)",
+    "Actor‑Holder": "State of origin & Other Fishing States",
+    "Action": "Privilege to create regional implementing arrangements",
+    "Actor‑Affected (Target)": "Global Community, Regional Bodies"
+  },
+  {
+    "Provision": "UNCLOS Article 67(1)",
+    "Actor‑Holder": "Coastal State where catadromous species mostly live",
+    "Action": "Duty to manage catadromous species",
+    "Actor‑Affected (Target)": "Other States that may fish these species"
+  },
+  {
+    "Provision": "UNCLOS Article 67(2)",
+    "Actor‑Holder": "State Parties fishing catadromous species",
+    "Action": "Duty to fish landward of the EEZ boundary",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 67(2)",
+    "Actor‑Holder": "State Parties fishing catadromous species",
+    "Action": "Duty to comply with UNCLOS when fishing in EEZ",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 67(3)",
+    "Actor‑Holder": "Coastal State (primary) + Other State receiving migration",
+    "Action": "Duty to coordinate management measures",
+    "Actor‑Affected (Target)": "Each Other (both States)"
+  },
+  {
+    "Provision": "UNCLOS Article 68",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Disability to apply Part V to sedentary species",
+    "Actor‑Affected (Target)": "Foreign States, Global Community"
+  },
+  {
+    "Provision": "UNCLOS Article 68",
+    "Actor‑Holder": "State Parties",
+    "Action": "No-right to claim Part V access to sedentary species",
+    "Actor‑Affected (Target)": "Coastal State, Sedentary Species Regime"
+  },
+  {
+    "Provision": "UNCLOS Article 69(1)",
+    "Actor‑Holder": "Land-locked States",
+    "Action": "Claim-Right to equitable access to EEZ surplus",
+    "Actor‑Affected (Target)": "Coastal States of the Same Region"
+  },
+  {
+    "Provision": "UNCLOS Article 69(2)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Duty to negotiate access terms",
+    "Actor‑Affected (Target)": "Each Other"
+  },
+  {
+    "Provision": "UNCLOS Article 69(2)(a)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Duty to protect coastal communities",
+    "Actor‑Affected (Target)": "Coastal Fishing Communities"
+  },
+  {
+    "Provision": "UNCLOS Article 69(2)(b)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Duty to consider other EEZ participation",
+    "Actor‑Affected (Target)": "Land-locked State(s)"
+  },
+  {
+    "Provision": "UNCLOS Article 69(2)(c)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Duty to consider other land-locked/GD States",
+    "Actor‑Affected (Target)": "Other Land-locked/GD States"
+  },
+  {
+    "Provision": "UNCLOS Article 69(2)(d)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Duty to consider nutritional needs",
+    "Actor‑Affected (Target)": "Populations of Each State"
+  },
+  {
+    "Provision": "UNCLOS Article 69(3)",
+    "Actor‑Holder": "Coastal State + Developing Land-locked States",
+    "Action": "Duty to maintain cooperation when catch capacity rises",
+    "Actor‑Affected (Target)": "Each Other (Developing LLS + CS)"
+  },
+  {
+    "Provision": "UNCLOS Article 69(4)",
+    "Actor‑Holder": "Developed Land-locked States",
+    "Action": "Claim-Right to surplus in developed coastal EEZs",
+    "Actor‑Affected (Target)": "Developed Coastal States"
+  },
+  {
+    "Provision": "UNCLOS Article 69(5)",
+    "Actor‑Holder": "Coastal & Land-locked States",
+    "Action": "Privilege to offer equal/preferential rights in agreements",
+    "Actor‑Affected (Target)": "Others in the Region"
+  },
+  {
+    "Provision": "UNCLOS Article 70(1)",
+    "Actor‑Holder": "Geographically Disadvantaged (GD) States",
+    "Action": "Claim-Right to equitable access to EEZ surplus",
+    "Actor‑Affected (Target)": "Coastal States of the Same Region"
+  },
+  {
+    "Provision": "UNCLOS Article 70(3)",
+    "Actor‑Holder": "GD States & Coastal States",
+    "Action": "Duty to negotiate terms for GD access",
+    "Actor‑Affected (Target)": "Each Other"
+  },
+  {
+    "Provision": "UNCLOS Article 70(3)(a)",
+    "Actor‑Holder": "GD States & Coastal States",
+    "Action": "Duty to avoid harm to local fishing sectors",
+    "Actor‑Affected (Target)": "Coastal Fishing Communities"
+  },
+  {
+    "Provision": "UNCLOS Article 70(3)(b)",
+    "Actor‑Holder": "GD States & Coastal States",
+    "Action": "Duty to consider other EEZ access by GD States",
+    "Actor‑Affected (Target)": "GD State(s)"
+  },
+  {
+    "Provision": "UNCLOS Article 70(3)(c)",
+    "Actor‑Holder": "GD States & Coastal States",
+    "Action": "Duty to consider other GD/LL State claims",
+    "Actor‑Affected (Target)": "Other GD/LL States"
+  },
+  {
+    "Provision": "UNCLOS Article 70(3)(d)",
+    "Actor‑Holder": "GD States & Coastal States",
+    "Action": "Duty to account for nutritional needs",
+    "Actor‑Affected (Target)": "Populations of Each State"
+  },
+  {
+    "Provision": "UNCLOS Article 70(4)",
+    "Actor‑Holder": "Coastal State + Developing GD States",
+    "Action": "Duty to maintain cooperation when catch capacity grows",
+    "Actor‑Affected (Target)": "Each Other"
+  },
+  {
+    "Provision": "UNCLOS Article 70(5)",
+    "Actor‑Holder": "Developed GD States",
+    "Action": "Claim-Right (limited) to access EEZ surplus in developed coastal States",
+    "Actor‑Affected (Target)": "Developed Coastal States"
+  },
+  {
+    "Provision": "UNCLOS Article 70(6)",
+    "Actor‑Holder": "Coastal & GD States",
+    "Action": "Privilege to grant better access via regional deals",
+    "Actor‑Affected (Target)": "Others in the Region"
+  },
+  {
+    "Provision": "UNCLOS Article 77(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right over continental shelf resources",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right to prevent unauthorised shelf exploitation",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate shelf access",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right to exclusivity over shelf resources",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right requiring consent for exploration",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Immunity from occupation/proclamation requirement",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 77(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Immunity from challenge based on formal possession",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 77(4)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right to regulate sedentary species",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 77(4)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Claim-Right over MGRs in sedentary species",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 78(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Disability to alter status of superjacent waters",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 78(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty not to infringe navigation or overflight",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 79(1)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to lay cables/pipelines on the shelf",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 79(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Disability to block cable/pipeline laying arbitrarily",
+    "Actor‑Affected (Target)": "States laying cables/pipelines"
+  },
+  {
+    "Provision": "UNCLOS Article 79(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to impose protection/pollution conditions",
+    "Actor‑Affected (Target)": "States laying cables/pipelines"
+  },
+  {
+    "Provision": "UNCLOS Article 79(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to approve pipeline route",
+    "Actor‑Affected (Target)": "States laying pipelines"
+  },
+  {
+    "Provision": "UNCLOS Article 79(4)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate shelf-entering cables/pipelines",
+    "Actor‑Affected (Target)": "States operating cables/pipelines"
+  },
+  {
+    "Provision": "UNCLOS Article 79(5)",
+    "Actor‑Holder": "States laying cables/pipelines",
+    "Action": "Duty to consider existing infrastructure",
+    "Actor‑Affected (Target)": "Existing cable/pipeline operators"
+  },
+  {
+    "Provision": "UNCLOS Article 80",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate artificial islands on the shelf",
+    "Actor‑Affected (Target)": "Foreign States/Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 80",
+    "Actor‑Holder": "Foreign States/Entities",
+    "Action": "No-right to establish installations without consent",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 81",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to authorise drilling on the shelf",
+    "Actor‑Affected (Target)": "Foreign Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 81",
+    "Actor‑Holder": "Foreign Entities",
+    "Action": "No-right to drill without permission",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 82(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to make payments for non-living resource exploitation beyond 200 nm",
+    "Actor‑Affected (Target)": "States Parties via the Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 82(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to make escalating payments after year 5",
+    "Actor‑Affected (Target)": "Authority/States Parties"
+  },
+  {
+    "Provision": "UNCLOS Article 82(3)",
+    "Actor‑Holder": "Developing Coastal State",
+    "Action": "Privilege to exempt payments if net importer",
+    "Actor‑Affected (Target)": "Other States Parties"
+  },
+  {
+    "Provision": "UNCLOS Article 82(4)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to distribute payments equitably",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)",
+    "Actor‑Holder": "State Parties (Coastal or Land-locked)",
+    "Action": "Privilege to use the high seas",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(a)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege of navigation",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(b)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege of overflight",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(c)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to lay cables and pipelines",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(d)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to build installations",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(e)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to fish on the high seas",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(1)(f)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Privilege to conduct scientific research",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 87(2)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to exercise high seas freedoms with due regard",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 116",
+    "Actor‑Holder": "State Parties (re: their nationals)",
+    "Action": "Privilege for nationals to fish on the high seas",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 116(a)",
+    "Actor‑Holder": "State Parties (re: their nationals)",
+    "Action": "Duty to comply with treaty obligations",
+    "Actor‑Affected (Target)": "Treaty Parties"
+  },
+  {
+    "Provision": "UNCLOS Article 116(b)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to respect coastal State rights",
+    "Actor‑Affected (Target)": "Coastal States"
+  },
+  {
+    "Provision": "UNCLOS Article 116(c)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to follow conservation rules",
+    "Actor‑Affected (Target)": "Global Community"
+  },
+  {
+    "Provision": "UNCLOS Article 117",
+    "Actor‑Holder": "State Parties (re: their nationals)",
+    "Action": "Duty to conserve living resources",
+    "Actor‑Affected (Target)": "Global Community & Marine Ecosystems"
+  },
+  {
+    "Provision": "UNCLOS Article 118",
+    "Actor‑Holder": "State Parties exploiting same area or stocks",
+    "Action": "Duty to cooperate on conservation",
+    "Actor‑Affected (Target)": "Each Other, Global Community"
+  },
+  {
+    "Provision": "UNCLOS Article 119(1)(a)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to base conservation on science",
+    "Actor‑Affected (Target)": "Global Community & Marine Species"
+  },
+  {
+    "Provision": "UNCLOS Article 119(1)(a)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to consider needs of developing States",
+    "Actor‑Affected (Target)": "Developing States & Marine Ecosystems"
+  },
+  {
+    "Provision": "UNCLOS Article 119(1)(b)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to protect associated species",
+    "Actor‑Affected (Target)": "Associated/Dependent Species & Ecosystems"
+  },
+  {
+    "Provision": "UNCLOS Article 119(2)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty to share scientific data",
+    "Actor‑Affected (Target)": "Other States & Orgs"
+  },
+  {
+    "Provision": "UNCLOS Article 119(3)",
+    "Actor‑Holder": "High Seas Fishing States",
+    "Action": "Duty not to discriminate in conservation",
+    "Actor‑Affected (Target)": "Fishermen of All States"
+  },
+  {
+    "Provision": "UNCLOS Article 136",
+    "Actor‑Holder": "Mankind (Global Community)",
+    "Action": "Claim‑Right to common heritage",
+    "Actor‑Affected (Target)": "States Parties & Private Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 137(1)",
+    "Actor‑Holder": "Mankind (Global Community)",
+    "Action": "Claim‑Right against sovereignty claims",
+    "Actor‑Affected (Target)": "States & Private Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 137(1)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Disability to assert sovereignty",
+    "Actor‑Affected (Target)": "Mankind (Global Stakeholders)"
+  },
+  {
+    "Provision": "UNCLOS Article 137(2)",
+    "Actor‑Holder": "Mankind (Global Community)",
+    "Action": "Claim‑Right to resource ownership",
+    "Actor‑Affected (Target)": "States Parties & Private Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 137(2)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Power to regulate on behalf of mankind",
+    "Actor‑Affected (Target)": "States Parties & Private Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 137(3)",
+    "Actor‑Holder": "State Parties & Private Entities",
+    "Action": "Duty to comply with Authority rules",
+    "Actor‑Affected (Target)": "Mankind (Global Stakeholders), The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 140(1)",
+    "Actor‑Holder": "All Entities Engaged in the Area",
+    "Action": "Duty to benefit mankind",
+    "Actor‑Affected (Target)": "Mankind (Global Stakeholders), Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 140(2)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to equitably distribute benefits",
+    "Actor‑Affected (Target)": "States Parties, Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 143(1)",
+    "Actor‑Holder": "All MSR Conducting Entities",
+    "Action": "Duty to pursue peaceful research",
+    "Actor‑Affected (Target)": "Mankind (Global Stakeholders)"
+  },
+  {
+    "Provision": "UNCLOS Article 143(2)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Power to conduct or contract MSR",
+    "Actor‑Affected (Target)": "Contracting Parties, Other Involved Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 143(2)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to promote and share research",
+    "Actor‑Affected (Target)": "States Parties, Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Privilege to conduct MSR",
+    "Actor‑Affected (Target)": "Other States Parties, The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to cooperate in MSR",
+    "Actor‑Affected (Target)": "Other States Parties, Global Community"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(a)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to support joint MSR programmes",
+    "Actor‑Affected (Target)": "Other States Parties, The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(b)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to support less advanced States",
+    "Actor‑Affected (Target)": "Developing/Technologically less developed States"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(b)(ii)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to train developing State personnel",
+    "Actor‑Affected (Target)": "Developing States & Authority Personnel"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(b)(iii)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to promote employment in MSR",
+    "Actor‑Affected (Target)": "Qualified Personnel of Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(b)(i)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to enhance research capacity",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 143(3)(c)",
+    "Actor‑Holder": "States Parties",
+    "Action": "Duty to disseminate research findings",
+    "Actor‑Affected (Target)": "Global Stakeholders, The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 145",
+    "Actor‑Holder": "The Authority / State Parties & Entities in the Area",
+    "Action": "Duty to protect marine environment",
+    "Actor‑Affected (Target)": "Marine Environment (Global Stakeholders)"
+  },
+  {
+    "Provision": "UNCLOS Article 145(a)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Power/Duty to adopt anti-pollution rules",
+    "Actor‑Affected (Target)": "Operators in the Area"
+  },
+  {
+    "Provision": "UNCLOS Article 145(b)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to protect natural resources",
+    "Actor‑Affected (Target)": "Natural Resources, Flora/Fauna"
+  },
+  {
+    "Provision": "UNCLOS Article 147(1)",
+    "Actor‑Holder": "Entities operating in the Area",
+    "Action": "Duty to respect other marine uses",
+    "Actor‑Affected (Target)": "Other Marine Activities"
+  },
+  {
+    "Provision": "UNCLOS Article 147(2)(a)",
+    "Actor‑Holder": "Entities erecting installations",
+    "Action": "Duty to comply and notify",
+    "Actor‑Affected (Target)": "The Authority & Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 147(2)(b)",
+    "Actor‑Holder": "Entities erecting installations",
+    "Action": "No-right to interfere with sea lanes",
+    "Actor‑Affected (Target)": "Global Shipping, Fishing States"
+  },
+  {
+    "Provision": "UNCLOS Article 147(2)(c)",
+    "Actor‑Holder": "Operators & The Authority",
+    "Action": "Duty to ensure safety zones",
+    "Actor‑Affected (Target)": "Navigators, International Shipping"
+  },
+  {
+    "Provision": "UNCLOS Article 147(2)(d)",
+    "Actor‑Holder": "Entities erecting installations",
+    "Action": "Duty to use for peaceful purposes",
+    "Actor‑Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 147(2)(e)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Disability to alter maritime baselines",
+    "Actor‑Affected (Target)": "Other States & the Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 147(3)",
+    "Actor‑Holder": "Entities operating outside the Area",
+    "Action": "Duty to respect Area activities",
+    "Actor‑Affected (Target)": "Operators/Activities in the Area"
+  },
+  {
+    "Provision": "UNCLOS Article 192",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to protect marine environment",
+    "Actor‑Affected (Target)": "Global Stakeholders, Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 193",
+    "Actor‑Holder": "Each State within its jurisdiction",
+    "Action": "Claim‑Right to exploit resources",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 193",
+    "Actor‑Holder": "Each State within its jurisdiction",
+    "Action": "Duty to protect environment",
+    "Actor‑Affected (Target)": "Global Stakeholders, Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 238",
+    "Actor‑Holder": "State Parties & Competent Intl. Orgs",
+    "Action": "Privilege to conduct MSR",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 238",
+    "Actor‑Holder": "State Parties & Competent Intl. Orgs",
+    "Action": "Duty to respect other rights",
+    "Actor‑Affected (Target)": "Other States, Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 241",
+    "Actor‑Holder": "Entities conducting MSR",
+    "Action": "Disability to claim areas/resources",
+    "Actor‑Affected (Target)": "Global Stakeholders / Coastal States, etc."
+  },
+  {
+    "Provision": "UNCLOS Article 241",
+    "Actor‑Holder": "Global Community / Coastal States, etc.",
+    "Action": "Immunity from MSR-based claims",
+    "Actor‑Affected (Target)": "MSR-Conducting Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 242(1)",
+    "Actor‑Holder": "State Parties & Intl. Orgs",
+    "Action": "Duty to cooperate in MSR",
+    "Actor‑Affected (Target)": "Each Other"
+  },
+  {
+    "Provision": "UNCLOS Article 242(2)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to provide vital info",
+    "Actor‑Affected (Target)": "Other States, Global Community"
+  },
+  {
+    "Provision": "UNCLOS Article 243",
+    "Actor‑Holder": "State Parties & Intl. Orgs",
+    "Action": "Duty to cooperate in MSR agreements",
+    "Actor‑Affected (Target)": "Research Community, Global Knowledge"
+  },
+  {
+    "Provision": "UNCLOS Article 244(1)",
+    "Actor‑Holder": "State Parties & Intl. Orgs",
+    "Action": "Duty to publish/disseminate MSR info",
+    "Actor‑Affected (Target)": "Global Research Community"
+  },
+  {
+    "Provision": "UNCLOS Article 244(2)",
+    "Actor‑Holder": "State Parties (individually or cooperatively)",
+    "Action": "Duty to transfer MSR knowledge to developing States",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 245",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to authorise MSR in territorial sea",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 245",
+    "Actor‑Holder": "Foreign Researchers",
+    "Action": "Duty to seek coastal State’s consent",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 246(1)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to regulate MSR in EEZ/shelf",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(2)",
+    "Actor‑Holder": "Foreign Researchers",
+    "Action": "Duty to obtain consent for MSR",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 246(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to grant MSR consent for peaceful, beneficial projects",
+    "Actor‑Affected (Target)": "Foreign Researchers, Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 246(3)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Duty to avoid unreasonable delay/denial",
+    "Actor‑Affected (Target)": "Researching State(s)"
+  },
+  {
+    "Provision": "UNCLOS Article 246(4)",
+    "Actor‑Holder": "Coastal & Researching States",
+    "Action": "Disability to deny MSR based on absence of diplomatic relations",
+    "Actor‑Affected (Target)": "Researching State(s)"
+  },
+  {
+    "Provision": "UNCLOS Article 246(5)(a)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Privilege to refuse MSR tied to resource exploitation",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(5)(b)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to refuse harmful/polluting MSR",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(5)(c)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to refuse installation-based MSR",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(5)(d)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to refuse based on false info or prior obligations",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(6)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Disability to refuse MSR beyond 200 nm on certain grounds",
+    "Actor‑Affected (Target)": "Foreign Researchers"
+  },
+  {
+    "Provision": "UNCLOS Article 246(8)",
+    "Actor‑Holder": "Foreign Researchers",
+    "Action": "Duty not to interfere with coastal State rights",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(a)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to allow participation in MSR",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(b)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to provide research results",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(c)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to share data and samples",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(d)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to assist in data/samples assessment",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(e)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to publish MSR results",
+    "Actor‑Affected (Target)": "Global Community & Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(f)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to notify changes to research programme",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(1)(g)",
+    "Actor‑Holder": "Researching States & Orgs",
+    "Action": "Duty to remove MSR equipment",
+    "Actor‑Affected (Target)": "Coastal State"
+  },
+  {
+    "Provision": "UNCLOS Article 249(2)",
+    "Actor‑Holder": "Coastal State",
+    "Action": "Power to require pre-approval for result dissemination",
+    "Actor‑Affected (Target)": "Researching States & Orgs"
+  },
+  {
+    "Provision": "UNCLOS Article 256",
+    "Actor‑Holder": "State Parties & Competent Intl. Orgs",
+    "Action": "Privilege to conduct MSR in the Area",
+    "Actor‑Affected (Target)": "Other States & Entities"
+  },
+  {
+    "Provision": "UNCLOS Article 256",
+    "Actor‑Holder": "State Parties & Competent Intl. Orgs",
+    "Action": "Duty to comply with Part XI",
+    "Actor‑Affected (Target)": "Global Community & The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 257",
+    "Actor‑Holder": "State Parties & Intl. Orgs",
+    "Action": "Privilege to conduct MSR in high seas water column",
+    "Actor‑Affected (Target)": "Other States"
+  },
+  {
+    "Provision": "UNCLOS Article 266(1)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to promote tech transfer on fair terms",
+    "Actor‑Affected (Target)": "Potential Technology Recipients"
+  },
+  {
+    "Provision": "UNCLOS Article 266(2)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to support scientific/tech capacity of developing States",
+    "Actor‑Affected (Target)": "Developing & Disadvantaged States"
+  },
+  {
+    "Provision": "UNCLOS Article 266(3)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to foster equitable tech transfer conditions",
+    "Actor‑Affected (Target)": "Potential Technology Recipients"
+  },
+  {
+    "Provision": "UNCLOS Article 267",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to respect stakeholders in tech cooperation",
+    "Actor‑Affected (Target)": "Technology Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 268(a)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to promote knowledge access",
+    "Actor‑Affected (Target)": "Research/Technology Community"
+  },
+  {
+    "Provision": "UNCLOS Article 268(b)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to develop marine technology",
+    "Actor‑Affected (Target)": "Potential Technology Users"
+  },
+  {
+    "Provision": "UNCLOS Article 268(c)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to develop tech infrastructure",
+    "Actor‑Affected (Target)": "Potential Technology Recipients"
+  },
+  {
+    "Provision": "UNCLOS Article 268(d)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to build human resource capacity",
+    "Actor‑Affected (Target)": "Developing States’ Nationals"
+  },
+  {
+    "Provision": "UNCLOS Article 268(e)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to promote international cooperation",
+    "Actor‑Affected (Target)": "Each Other (International Community)"
+  },
+  {
+    "Provision": "UNCLOS Article 269(a)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to provide technical cooperation",
+    "Actor‑Affected (Target)": "Developing/Land-locked/Geographically Disadvantaged (GD) States"
+  },
+  {
+    "Provision": "UNCLOS Article 269(b)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to ensure fair marine tech agreements",
+    "Actor‑Affected (Target)": "Contractual Parties in Marine Tech Deals"
+  },
+  {
+    "Provision": "UNCLOS Article 269(c)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to host knowledge exchange events",
+    "Actor‑Affected (Target)": "Global Research & Development Community"
+  },
+  {
+    "Provision": "UNCLOS Article 269(d)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to enable expert/scientist exchanges",
+    "Actor‑Affected (Target)": "Scientists & Experts Worldwide"
+  },
+  {
+    "Provision": "UNCLOS Article 269(e)",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to undertake cooperative projects",
+    "Actor‑Affected (Target)": "Each Other"
+  },
+  {
+    "Provision": "UNCLOS Article 270",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to carry out cooperation programmes",
+    "Actor‑Affected (Target)": "Global Stakeholders"
+  },
+  {
+    "Provision": "UNCLOS Article 271",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to promote technology transfer standards",
+    "Actor‑Affected (Target)": "Developing States, Global Recipients"
+  },
+  {
+    "Provision": "UNCLOS Article 272",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to ensure organizational coordination",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 273",
+    "Actor‑Holder": "State Parties",
+    "Action": "Duty to support tech transfer via organizations",
+    "Actor‑Affected (Target)": "Developing States, The Authority"
+  },
+  {
+    "Provision": "UNCLOS Article 274(a)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to ensure geographic training access",
+    "Actor‑Affected (Target)": "Nationals of Developing States"
+  },
+  {
+    "Provision": "UNCLOS Article 274(b)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to provide technical documentation",
+    "Actor‑Affected (Target)": "States Parties in Need"
+  },
+  {
+    "Provision": "UNCLOS Article 274(c)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to ensure capacity-building support",
+    "Actor‑Affected (Target)": "Developing States seeking assistance"
+  },
+  {
+    "Provision": "UNCLOS Article 274(d)",
+    "Actor‑Holder": "The Authority",
+    "Action": "Duty to assist with equipment/financial help",
+    "Actor‑Affected (Target)": "States Parties in Need"
+  }
+]

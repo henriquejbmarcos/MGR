@@ -1,0 +1,614 @@
+ [
+  {
+    "Provision": "Nagoya Protocol Article 4(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must interpret and apply the Protocol consistently with existing international instruments.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 4(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must interpret and apply the Protocol consistently with existing international instruments.",
+    "Actor‑Affected (Target)": "Resource users"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 4(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Power: May apply the Protocol when the exercise of rights under other agreements causes serious harm or poses a threat to biological diversity",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 4(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must promote coherence and coordination with other legal instruments, frameworks and bodies.",
+    "Actor‑Affected (Target)": "Other Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 4(4)",
+    "Actor‑Holder": "Non‑parties to Nagoya",
+    "Action": "Immunity: Not bound by the Protocol’s provisions or enforcement measures.",
+    "Actor‑Affected (Target)": "Contracting Parties and enforcement bodies"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.1",
+    "Actor‑Holder": "Resource‑providing Party",
+    "Action": "Claim‑Right: Entitled to fair and equitable benefit‑sharing from utilization of genetic resources.",
+    "Actor‑Affected (Target)": "Utilizing Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.1",
+    "Actor‑Holder": "Resource‑providing Party",
+    "Action": "Power: May determine mutually agreed conditions for benefit‑sharing.",
+    "Actor‑Affected (Target)": "Utilizing Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.1",
+    "Actor‑Holder": "Utilizing Party",
+    "Action": "Duty: Must share benefits from genetic resources in accordance with mutually agreed terms.",
+    "Actor‑Affected (Target)": "Resource‑providing Party"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.2",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure benefit‑sharing with indigenous and local communities when they hold genetic resources.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.3",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must implement legal or policy measures to ensure benefit‑sharing obligations are effective.",
+    "Actor‑Affected (Target)": "States Parties involved in resource utilization"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.5",
+    "Actor‑Holder": "Indigenous People/Local Communities",
+    "Action": "Claim‑Right: Entitled to fair benefit‑sharing from traditional knowledge utilization.",
+    "Actor‑Affected (Target)": "Utilizing Party"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 5.5",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure traditional knowledge benefit‑sharing is based on mutually agreed terms.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(1)",
+    "Actor‑Holder": "Resource‑providing Party",
+    "Action": "Claim‑Right: May require prior informed consent for access.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(1)",
+    "Actor‑Holder": "Resource‑providing Party",
+    "Action": "Power: May determine access conditions through regulatory measures.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(1)",
+    "Actor‑Holder": "Resource Users",
+    "Action": "Duty: Must obtain prior informed consent before accessing genetic resources.",
+    "Actor‑Affected (Target)": "Resource‑providing Party"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure prior informed consent or involvement of indigenous/local communities.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide legal certainty, clarity, and transparency in ABS laws.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must establish fair and non‑arbitrary access procedures.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide clear information on how to apply for prior informed consent.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(d)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must issue a written decision within a reasonable time (via competent authority)",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(e)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must issue a permit and notify the Clearing‑House (via competent authority)",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(e)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must issue a permit and notify the Clearing‑House (via competent authority)",
+    "Actor‑Affected (Target)": "Clearing‑House"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(f)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must set criteria for obtaining consent from indigenous/local communities.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(f)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must set criteria for obtaining consent from indigenous/local communities.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must establish procedures for mutually agreed terms.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must establish procedures for mutually agreed terms.",
+    "Actor‑Affected (Target)": "Resource‑providing Party"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)(i)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Privilege: May include a dispute settlement clause in mutually agreed terms",
+    "Actor‑Affected (Target)": "States Parties entering the agreement"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)(ii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Privilege: May include benefit-sharing provisions, including in relation to intellectual property rights, in mutually agreed terms",
+    "Actor‑Affected (Target)": "States Parties entering the agreement"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)(iii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Privilege: May include terms on subsequent third-party use in mutually agreed terms",
+    "Actor‑Affected (Target)": "States Parties entering the agreement"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 6(3)(g)(iv)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Privilege: May include terms on changes of intent in mutually agreed terms",
+    "Actor‑Affected (Target)": "States Parties entering the agreement"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 7",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure that access to traditional knowledge is subject to prior informed consent or approval and community involvement.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 7",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure mutually agreed terms are established for accessing traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 7",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure mutually agreed terms are established for accessing traditional knowledge.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 8(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must create conditions promoting conservation-related research, including simplified access for non‑commercial use.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 8(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must create conditions promoting conservation-related research, including simplified access for non‑commercial use.",
+    "Actor‑Affected (Target)": "Research Community"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 8(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must consider emergency situations requiring expeditious access and benefit‑sharing.",
+    "Actor‑Affected (Target)": "Affected Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 8(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must consider emergency situations requiring expeditious access and benefit‑sharing.",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 8(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must consider the importance of genetic resources for food, agriculture, and food security.",
+    "Actor‑Affected (Target)": "Global Food/Agriculture Stakeholders"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 10(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must consider the need for a global multilateral benefit‑sharing mechanism in complex access scenarios.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 10(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must direct benefits to conservation and sustainable use.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 10(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must use shared benefits to support biodiversity conservation and sustainable use.",
+    "Actor‑Affected (Target)": "Global Biodiversity"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 11(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must cooperate on shared in situ genetic resources with indigenous and local communities.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 11(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must cooperate where traditional knowledge is shared across borders.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must take into account customary laws, community protocols, and procedures regarding traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must establish mechanisms to inform users of obligations related to traditional knowledge.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(3)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must support community development of protocols on access and benefit-sharing.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(3)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must support development of minimum requirements for mutually agreed terms on traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(3)(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must support model contractual clauses for benefit-sharing involving traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 12(4)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must avoid restricting customary use and exchange of genetic resources and traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must designate a national focal point for access and benefit-sharing.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(1)(a)",
+    "Actor‑Holder": "National Focal Point",
+    "Action": "Duty: Must provide information on procedures for obtaining prior informed consent.",
+    "Actor‑Affected (Target)": "Potential applicants"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(1)(b)",
+    "Actor‑Holder": "National Focal Point",
+    "Action": "Duty: Must provide information on accessing traditional knowledge.",
+    "Actor‑Affected (Target)": "Potential applicants"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(1)(c)",
+    "Actor‑Holder": "National Focal Point",
+    "Action": "Duty: Must provide contact information for authorities, communities, and stakeholders.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(1)",
+    "Actor‑Holder": "National Focal Point",
+    "Action": "Duty: Must liaise with the Secretariat.",
+    "Actor‑Affected (Target)": "Secretariat"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must designate competent national authorities for access and benefit-sharing.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(2)",
+    "Actor‑Holder": "Competent National Authority",
+    "Action": "Duty: Must grant access, issue evidence, and advise on procedures.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(3)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Liberty: May designate a single entity to fulfill both focal point and competent authority roles.",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(4)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must notify the Secretariat of contact information for national focal point and authorities.",
+    "Actor‑Affected (Target)": "Secretariat"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 13(5)",
+    "Actor‑Holder": "Secretariat",
+    "Action": "Duty: Must publish information via the Clearing‑House.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must establish a Clearing-House to share information on access and benefit-sharing.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(2)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide legislative, administrative, and policy measures to the Clearing-House.",
+    "Actor‑Affected (Target)": "Global users of regulatory info"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(2)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide information on national focal point and competent authority(ies).",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(2)(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide permits or equivalents as evidence of prior informed consent and mutually agreed terms.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(3)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Privilege: May provide additional information such as model clauses, monitoring tools, and codes of conduct",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 14(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Duty: Must determine the operational modalities of the Clearing-House.",
+    "Actor‑Affected (Target)": "Stakeholders Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 15(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure that access to genetic resources is subject to prior informed consent and mutually agreed terms.",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 15(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must adopt measures to address non-compliance with domestic access and benefit-sharing requirements.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 15(3)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must cooperate in cases of alleged violation of access and benefit-sharing requirements.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 16(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure access to traditional knowledge occurs only with prior informed consent and mutually agreed terms.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 16(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must address non-compliance with domestic traditional knowledge access rules.",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 16(3)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must cooperate in cases of violation of traditional knowledge access legislation.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(i)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must designate one or more checkpoints to collect information on prior informed consent, source, terms, and utilization",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(i)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must designate one or more checkpoints to collect information on prior informed consent, source, terms, and utilization",
+    "Actor‑Affected (Target)": "Regulatory authorities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(ii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must require users to provide information at designated checkpoints",
+    "Actor‑Affected (Target)": "Users of genetic resources"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(iii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide collected information, including certificates, to national authorities, the providing Party, and the Clearing-House ",
+    "Actor‑Affected (Target)": "National authorities"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(iii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide collected information, including certificates, to national authorities, the providing Party, and the Clearing-House",
+    "Actor‑Affected (Target)": "Providing Party"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(iii)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must provide collected information, including certificates, to national authorities, the providing Party, and the Clearing-House ",
+    "Actor‑Affected (Target)": "Clearing-House"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(1)(a)(iv)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure checkpoints function effectively at all stages of resource utilization",
+    "Actor‑Affected (Target)": "Users and regulators"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Power: May issue permit as internationally recognized certificate of compliance",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Power: May issue permit as internationally recognized certificate of compliance",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 17(4)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must include minimum information in the certificate of compliance",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage inclusion of dispute resolution provisions in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage inclusion of dispute resolution provisions in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage specification of jurisdiction for dispute resolution in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage specification of jurisdiction for dispute resolution in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage specification of applicable law in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage specification of applicable law in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage inclusion of alternative dispute resolution options in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(1)(c)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must encourage inclusion of alternative dispute resolution options in mutually agreed terms",
+    "Actor‑Affected (Target)": "Resource Provider"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure that access to legal recourse is available under domestic legal systems",
+    "Actor‑Affected (Target)": "Resource User"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(3)(a)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must take effective measures to provide access to justice",
+    "Actor‑Affected (Target)": "Disputing Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(3)(b)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must take measures to facilitate recognition and enforcement of foreign judgments and arbitral awards",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 18(4)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May review the effectiveness of Article 18 provisions",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 19(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May periodically take stock of the use of model contractual clauses",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 20(2)",
+    "Actor‑Holder": "COP",
+    "Action": "Power: May take stock of and consider adoption of voluntary instruments",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 21",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must take awareness-raising measures on genetic resources and traditional knowledge",
+    "Actor‑Affected (Target)": "Global Stakeholder"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 22",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must cooperate in capacity-building and institutional development",
+    "Actor‑Affected (Target)": "Developing States"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 22(2)",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must take financial needs of developing countries into account",
+    "Actor‑Affected (Target)": "Developing State"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 23",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must collaborate in technical and scientific research and development programmes ",
+    "Actor‑Affected (Target)": "Global scientific community"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 23",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must collaborate in technical and scientific research and development programmes ",
+    "Actor‑Affected (Target)": "Potential MGR researchers"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 23",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure collaboration occurs with resource-providing Parties ",
+    "Actor‑Affected (Target)": "Resource‑providing Parties"
+  },
+  {
+    "Provision": "Nagoya Protocol Article 23",
+    "Actor‑Holder": "Contracting Party to Nagoya",
+    "Action": "Duty: Must ensure collaboration occurs with resource-providing Parties ",
+    "Actor‑Affected (Target)": "Potential users of genetic resources"
+  }
+]

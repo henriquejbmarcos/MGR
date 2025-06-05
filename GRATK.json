@@ -1,0 +1,224 @@
+ [
+  {
+    "Provision": "GRATK, Article 3.1(a)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the country of origin to ensure transparency.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.1(a)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the country of origin to ensure transparency.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 3.1(b)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the source when the country of origin is unknown.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.1(b)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the source when the country of origin is unknown.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 3.2(a)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the Indigenous Peoples or local community that provided the traditional knowledge.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.2(a)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the Indigenous Peoples or local community that provided the traditional knowledge.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "GRATK, Article 3.2(b)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the source of traditional knowledge if the provider’s identity is unknown.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.2(b)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must disclose the source of traditional knowledge if the provider’s identity is unknown.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "GRATK, Article 3.3",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must declare, in good faith, when the required information is unknown.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.3",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty: Must declare, in good faith, when the required information is unknown.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 3.4",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must provide guidance to meet disclosure requirements.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 3.4",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must allow corrections to meet disclosure requirements.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 3.5",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must not require verification of the disclosed information.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 3.5",
+    "Actor‑Holder": "Patent Office",
+    "Action": "Immunity: Not obligated to verify the authenticity of disclosed information.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 3.6",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must make disclosed information available per patent procedures while protecting confidentiality.",
+    "Actor‑Affected (Target)": "Global Research Community"
+  },
+  {
+    "Provision": "GRATK, Article 4",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must not impose retroactive disclosure obligations.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 4",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Immunity: Pre‑existing applications are exempt from new disclosure obligations.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 5.1",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must establish measures to sanction non‑disclosure.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 5.2",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must provide an opportunity to rectify failure to disclose.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 5.2(bis)",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Power: May exclude the opportunity to rectify if fraudulent conduct is evident.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 5.3",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must not revoke or invalidate patent rights solely due to non‑disclosure.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 5.4",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Power: May impose post‑grant sanctions or remedies if fraudulent intent regarding disclosure is proven.",
+    "Actor‑Affected (Target)": "Patent Applicant"
+  },
+  {
+    "Provision": "GRATK, Article 6.1",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Privilege: May establish information systems (e.g. databases) for genetic resources.",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "GRATK, Article 6.1",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Privilege: May establish information systems for traditional knowledge associated with genetic resources.",
+    "Actor‑Affected (Target)": "Indigenous People/Local Communities"
+  },
+  {
+    "Provision": "GRATK, Article 6.2",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must make information systems accessible for patent examination.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 6.2",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Power: May require authorization for access to information systems.",
+    "Actor‑Affected (Target)": "Patent Office"
+  },
+  {
+    "Provision": "GRATK, Article 6.3",
+    "Actor‑Holder": "Assembly of Contracting Parties to GRATK",
+    "Action": "Power: May establish technical working groups to address matters related to information systems.",
+    "Actor‑Affected (Target)": "Contracting Party to GRATK"
+  },
+  {
+    "Provision": "GRATK, Article 9.1",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Duty: Must adopt measures necessary for effective implementation of the Treaty.",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "GRATK, Article 9.2",
+    "Actor‑Holder": "Contracting Party to GRATK",
+    "Action": "Liberty: Free to determine the appropriate method of implementing the Treaty within its legal system.",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": ""
+  },
+  {
+    "Provision": "",
+    "Actor‑Holder": "",
+    "Action": "",
+    "Actor‑Affected (Target)": "i"
+  }
+]

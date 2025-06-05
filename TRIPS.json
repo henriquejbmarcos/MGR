@@ -1,0 +1,914 @@
+ [
+  {
+    "Provision": "TRIPS Article 1(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to implement TRIPS provisions",
+    "Actor‑Affected (Target)": "All potential patent applicants (including those on MGR‑based inventions)"
+  },
+  {
+    "Provision": "TRIPS Article 1(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to provide more extensive IP protection",
+    "Actor‑Affected (Target)": "All potential applicants"
+  },
+  {
+    "Provision": "TRIPS Article 1(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to choose method of TRIPS implementation",
+    "Actor‑Affected (Target)": "Global stakeholders"
+  },
+  {
+    "Provision": "TRIPS Article 1(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to treat nationals of other Members equally in IP matters",
+    "Actor‑Affected (Target)": "Nationals of other Member States"
+  },
+  {
+    "Provision": "TRIPS Article 2(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to comply with Paris Convention and other IP treaties",
+    "Actor‑Affected (Target)": "Right Holder (including those in MGR‑based patents)"
+  },
+  {
+    "Provision": "TRIPS Article 2(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to uphold existing IP obligations under other treaties",
+    "Actor‑Affected (Target)": "Right Holder"
+  },
+  {
+    "Provision": "TRIPS Article 3",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide national treatment",
+    "Actor‑Affected (Target)": "Nationals of other Members"
+  },
+  {
+    "Provision": "TRIPS Article 4",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide most‑favoured‑nation treatment",
+    "Actor‑Affected (Target)": "Nationals of all Members"
+  },
+  {
+    "Provision": "TRIPS Article 5",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty (Exemption from national treatment and MFN)",
+    "Actor‑Affected (Target)": "Procedures under WIPO multilateral agreements"
+  },
+  {
+    "Provision": "TRIPS Article 6",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from exhaustion-related dispute settlement",
+    "Actor‑Affected (Target)": "Disputing parties"
+  },
+  {
+    "Provision": "TRIPS Article 7(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to promote technological innovation",
+    "Actor‑Affected (Target)": "Innovators, including MGR-based inventors"
+  },
+  {
+    "Provision": "TRIPS Article 7(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to facilitate technology transfer and dissemination",
+    "Actor‑Affected (Target)": "Technology users, particularly in developing States"
+  },
+  {
+    "Provision": "TRIPS Article 8(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to adopt protective measures for public health, nutrition, and interest",
+    "Actor‑Affected (Target)": "Public; technology users"
+  },
+  {
+    "Provision": "TRIPS Article 8(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prevent abuse of IP rights and trade restrictions",
+    "Actor‑Affected (Target)": "Right holder and trade partners"
+  },
+  {
+    "Provision": "TRIPS Article 9",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to comply with Berne Convention Articles 1–21",
+    "Actor‑Affected (Target)": "Copyright right holders"
+  },
+  {
+    "Provision": "TRIPS Article 10",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to protect computer programs and data compilations",
+    "Actor‑Affected (Target)": "Software and data compilers"
+  },
+  {
+    "Provision": "TRIPS Article 11",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide rental rights",
+    "Actor‑Affected (Target)": "Copyright holders"
+  },
+  {
+    "Provision": "TRIPS Article 12",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to ensure minimum copyright term",
+    "Actor‑Affected (Target)": "Copyright holders"
+  },
+  {
+    "Provision": "TRIPS Article 13",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to confine limitations to special cases",
+    "Actor‑Affected (Target)": "Copyright holders"
+  },
+  {
+    "Provision": "TRIPS Article 14(1)",
+    "Actor‑Holder": "Performers",
+    "Action": "Claim‑Right to prevent unauthorized fixation and reproduction",
+    "Actor‑Affected (Target)": "Unauthorized users (e.g. broadcasters)"
+  },
+  {
+    "Provision": "TRIPS Article 14(1)",
+    "Actor‑Holder": "Performers",
+    "Action": "Claim‑Right to prevent unauthorized public performance and broadcasting",
+    "Actor‑Affected (Target)": "Broadcasters and public users"
+  },
+  {
+    "Provision": "TRIPS Article 14(2)",
+    "Actor‑Holder": "Producers of phonograms",
+    "Action": "Claim‑Right/Power to control reproduction",
+    "Actor‑Affected (Target)": "Unauthorized reproductions"
+  },
+  {
+    "Provision": "TRIPS Article 14(3)",
+    "Actor‑Holder": "Broadcasting organizations",
+    "Action": "Claim‑Right to prevent unauthorized use of broadcasts",
+    "Actor‑Affected (Target)": "Unauthorized broadcasters or re‑users"
+  },
+  {
+    "Provision": "TRIPS Article 15(1)",
+    "Actor‑Holder": "Member States (as administrator)",
+    "Action": "Duty/Liberty to register qualifying trademarks",
+    "Actor‑Affected (Target)": "Trademark applicants"
+  },
+  {
+    "Provision": "TRIPS Article 15(1)",
+    "Actor‑Holder": "Member States (as administrator)",
+    "Action": "Liberty to require proof of acquired distinctiveness",
+    "Actor‑Affected (Target)": "Trademark applicants"
+  },
+  {
+    "Provision": "TRIPS Article 15(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to deny trademark registration under consistent rules",
+    "Actor‑Affected (Target)": "Trademark applicants"
+  },
+  {
+    "Provision": "TRIPS Article 16(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Claim‑Right to exclusive use and to prevent infringement",
+    "Actor‑Affected (Target)": "Unauthorized users (competitors, infringers)"
+  },
+  {
+    "Provision": "TRIPS Article 16(2)",
+    "Actor‑Holder": "Trademark owner",
+    "Action": "Claim‑Right supported by presumption of confusion",
+    "Actor‑Affected (Target)": "Unauthorized users"
+  },
+  {
+    "Provision": "TRIPS Article 16(3)",
+    "Actor‑Holder": "Trademark owner",
+    "Action": "Duty/Liberty not to override existing prior rights",
+    "Actor‑Affected (Target)": "All potential users"
+  },
+  {
+    "Provision": "TRIPS Article 17 (Exceptions) – Row 1",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to regulate exceptions so that trademark owners’ legitimate interests are respected",
+    "Actor‑Affected (Target)": "Trademark owners"
+  },
+  {
+    "Provision": "TRIPS Article 17 (Exceptions) – Row 2",
+    "Actor‑Holder": "Third Parties (users)",
+    "Action": "Liberty to use descriptive terms without infringement within defined exceptions",
+    "Actor‑Affected (Target)": "Trademark owners"
+  },
+  {
+    "Provision": "TRIPS Article 18 (Term of Protection) – Row 3",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide a minimum term of protection (at least 7 years, renewable indefinitely)",
+    "Actor‑Affected (Target)": "Trademark applicants/owners"
+  },
+  {
+    "Provision": "TRIPS Article 18 (Term of Protection) – Row 4",
+    "Actor‑Holder": "Trademark Owner",
+    "Action": "Liberty to renew trademark protection indefinitely",
+    "Actor‑Affected (Target)": "Competitors; potential infringers"
+  },
+  {
+    "Provision": "TRIPS Article 19 (Requirement of Use) – Row 5",
+    "Actor‑Holder": "Trademark Owner",
+    "Action": "Duty to use trademark to maintain its registration",
+    "Actor‑Affected (Target)": "The system/Member State"
+  },
+  {
+    "Provision": "TRIPS Article 19 (Requirement of Use) – Row 6",
+    "Actor‑Holder": "Trademark Owner (via control)",
+    "Action": "Liberty to count controlled use by others as use of the trademark",
+    "Actor‑Affected (Target)": "Third parties acting under the owner’s control"
+  },
+  {
+    "Provision": "TRIPS Article 20 (Other Requirements) – Row 7",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty not to impose unjustified special requirements that encumber use of trademarks",
+    "Actor‑Affected (Target)": "Trademark owners"
+  },
+  {
+    "Provision": "TRIPS Article 20 (Other Requirements) – Row 8",
+    "Actor‑Holder": "Trademark Owner",
+    "Action": "Liberty to use trademark without unjustified restrictions",
+    "Actor‑Affected (Target)": "Third parties or regulatory impositions"
+  },
+  {
+    "Provision": "TRIPS Article 21 (Licensing and Assignment) – Row 9",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to permit trademark owners to control licensing and assignment conditions",
+    "Actor‑Affected (Target)": "Potential licensees and assignees"
+  },
+  {
+    "Provision": "TRIPS Article 21 (Licensing and Assignment) – Row 10",
+    "Actor‑Holder": "Trademark Owner",
+    "Action": "Claim‑Right to license or assign trademarks freely",
+    "Actor‑Affected (Target)": "Third parties"
+  },
+  {
+    "Provision": "TRIPS Article 21 (Licensing and Assignment) – Row 11",
+    "Actor‑Holder": "Member States",
+    "Action": "Power to set conditions for licensing and assignment, excluding compulsory licensing",
+    "Actor‑Affected (Target)": "Trademark owners and potential licensees"
+  },
+  {
+    "Provision": "TRIPS Article 22(2)(a)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prevent misleading use of geographical indications",
+    "Actor‑Affected (Target)": "Interested parties; consumers"
+  },
+  {
+    "Provision": "TRIPS Article 22(2)(b)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prevent unfair competition involving geographical indications",
+    "Actor‑Affected (Target)": "Competing producers; consumers"
+  },
+  {
+    "Provision": "TRIPS Article 22(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to refuse or cancel misleading trademarks involving geographical indications",
+    "Actor‑Affected (Target)": "Trademark applicants; potential infringers"
+  },
+  {
+    "Provision": "TRIPS Article 22(4)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prevent deceptive use of geographical indications even when technically accurate",
+    "Actor‑Affected (Target)": "Consumers; producers"
+  },
+  {
+    "Provision": "TRIPS Article 23(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prohibit the use of GIs for wines or spirits when the goods do not genuinely originate from the indicated area.",
+    "Actor‑Affected (Target)": "Producers/marketers of wines and spirits"
+  },
+  {
+    "Provision": "TRIPS Article 23(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to refuse or invalidate trademarks for wines or spirits that contain misleading GIs not corresponding to the actual origin.",
+    "Actor‑Affected (Target)": "Trademark applicants"
+  },
+  {
+    "Provision": "TRIPS Article 23(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to differentiate between homonymous GIs for wines to ensure fair and equal protection.",
+    "Actor‑Affected (Target)": "Competing producers"
+  },
+  {
+    "Provision": "TRIPS Article 23(4)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Power to initiate negotiations to establish a multilateral notification and registration system for GIs for wines.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to engage in negotiations aimed at enhancing protection for individual geographical indications.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(2)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Duty to periodically review the application of GI provisions to ensure continued relevance and effectiveness.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to maintain the level of GI protection that existed before the WTO Agreement took effect.",
+    "Actor‑Affected (Target)": "States Parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(4)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to allow continued use of GIs that have been used in good faith or for at least 10 years.",
+    "Actor‑Affected (Target)": "Nationals; producers"
+  },
+  {
+    "Provision": "TRIPS Article 24(5)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to impose time limits (five years) for challenging the use or registration of trademarks involving GIs.",
+    "Actor‑Affected (Target)": "Trademark owners; interested parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(6)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to exclude customary names from GI protection, preventing overreach into common language terms.",
+    "Actor‑Affected (Target)": "Nationals; trademark applicants"
+  },
+  {
+    "Provision": "TRIPS Article 24(7)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to require that challenges to GIs be raised within five years of becoming generally known.",
+    "Actor‑Affected (Target)": "Trademark applicants; interested parties"
+  },
+  {
+    "Provision": "TRIPS Article 24(8)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to protect the right of individuals or businesses to use their own names in trade, despite GI provisions.",
+    "Actor‑Affected (Target)": "Individuals; businesses"
+  },
+  {
+    "Provision": "TRIPS Article 24(9)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to refrain from protecting GIs that are no longer protected or have fallen into disuse in their country of origin.",
+    "Actor‑Affected (Target)": "GIs not protected or in disuse. No‑Right for others to demand protection"
+  },
+  {
+    "Provision": "TRIPS Article 25(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide protection for independently created industrial designs that are new or original.",
+    "Actor‑Affected (Target)": "Industrial design applicants"
+  },
+  {
+    "Provision": "TRIPS Article 25(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to ensure that procedural requirements for protecting textile designs do not unreasonably impair access to protection.",
+    "Actor‑Affected (Target)": "Applicants for design protection"
+  },
+  {
+    "Provision": "TRIPS Article 26(1)",
+    "Actor‑Holder": "Industrial design owner",
+    "Action": "Claim‑Right to prevent the unauthorized commercial use, copying, or importation of protected industrial designs.",
+    "Actor‑Affected (Target)": "Unauthorized producers or importers"
+  },
+  {
+    "Provision": "TRIPS Article 26(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to ensure that any exceptions to industrial design protection do not impair the normal commercial use of those designs.",
+    "Actor‑Affected (Target)": "Third parties; industrial design users"
+  },
+  {
+    "Provision": "TRIPS Article 26(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to grant at least ten years of protection for registered industrial designs.",
+    "Actor‑Affected (Target)": "Industrial design owners"
+  },
+  {
+    "Provision": "TRIPS Article 27(1)",
+    "Actor‑Holder": "Patent Offices / Member States",
+    "Action": "Duty to make patents available for inventions in all fields of technology that are new, inventive, and industrially applicable.",
+    "Actor‑Affected (Target)": "Inventors (including those in MGR research)"
+  },
+  {
+    "Provision": "TRIPS Article 27(1)",
+    "Actor‑Holder": "Patent Offices / Member States",
+    "Action": "Duty to ensure that patents are granted without discrimination based on origin, field, or production method.",
+    "Actor‑Affected (Target)": "All inventors"
+  },
+  {
+    "Provision": "TRIPS Article 28(1)(a)",
+    "Actor‑Holder": "Patent Owner",
+    "Action": "Claim‑Right to prevent unauthorized making, using, selling, or importing of a patented product.",
+    "Actor‑Affected (Target)": "Third parties"
+  },
+  {
+    "Provision": "TRIPS Article 28(1)(b)",
+    "Actor‑Holder": "Patent Owner",
+    "Action": "Claim‑Right to prevent unauthorized use of a patented process and the resulting product.",
+    "Actor‑Affected (Target)": "Third parties"
+  },
+  {
+    "Provision": "TRIPS Article 28(2)",
+    "Actor‑Holder": "Patent Owner",
+    "Action": "Claim‑Right to assign or license patents freely, allowing owners to monetize their innovations.",
+    "Actor‑Affected (Target)": "Potential licensees or assignees"
+  },
+  {
+    "Provision": "TRIPS Article 29(1)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty to disclose the invention in a sufficiently clear and complete manner for reproduction by skilled professionals.",
+    "Actor‑Affected (Target)": "Patent offices, competitors"
+  },
+  {
+    "Provision": "TRIPS Article 29(2)",
+    "Actor‑Holder": "Patent Applicant",
+    "Action": "Duty to provide information about corresponding foreign applications and grants, if required by national law.",
+    "Actor‑Affected (Target)": "Patent offices, global competitors"
+  },
+  {
+    "Provision": "TRIPS Article 30",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to allow narrowly tailored exceptions to patent rights that do not unreasonably conflict with exploitation or harm the interests of the patent owner.",
+    "Actor‑Affected (Target)": "Patent owners; third parties"
+  },
+  {
+    "Provision": "TRIPS Article 31",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to authorize limited non-voluntary uses of patented inventions under specific conditions, while ensuring fair compensation to the patent holder.",
+    "Actor‑Affected (Target)": "Third parties; patent owners"
+  },
+  {
+    "Provision": "TRIPS Article 32",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide patent holders with an opportunity for judicial review in case of revocation or forfeiture decisions.",
+    "Actor‑Affected (Target)": "Patent holders"
+  },
+  {
+    "Provision": "TRIPS Article 33",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to grant a minimum patent term of 20 years from the filing date, ensuring stable protection for inventions.",
+    "Actor‑Affected (Target)": "Patent holders"
+  },
+  {
+    "Provision": "TRIPS Article 34(1)",
+    "Actor‑Holder": "Judicial Authorities / Member States",
+    "Action": "Duty to shift the burden of proof in process patent infringement cases under defined conditions, facilitating enforcement by patent holders.",
+    "Actor‑Affected (Target)": "Alleged infringers"
+  },
+  {
+    "Provision": "TRIPS Article 34(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to define under which specific circumstances the burden of proof may be shifted in infringement cases.",
+    "Actor‑Affected (Target)": "Alleged infringers"
+  },
+  {
+    "Provision": "TRIPS Article 34(3)",
+    "Actor‑Holder": "Judicial Authorities / Member States",
+    "Action": "Duty to ensure defendants’ confidential business information is protected when responding to infringement claims.",
+    "Actor‑Affected (Target)": "Alleged infringers"
+  },
+  {
+    "Provision": "TRIPS Article 35",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide protection for the layout-designs of integrated circuits in accordance with international standards.",
+    "Actor‑Affected (Target)": "Integrated circuit design holders"
+  },
+  {
+    "Provision": "TRIPS Article 36",
+    "Actor‑Holder": "Layout‑design owner",
+    "Action": "Claim‑Right to prevent third parties from commercially exploiting protected layout‑designs without authorization.",
+    "Actor‑Affected (Target)": "Third parties"
+  },
+  {
+    "Provision": "TRIPS Article 37(1)",
+    "Actor‑Holder": "Member States / Users",
+    "Action": "Liberty for innocent users of infringing integrated circuits to use them without penalty, provided a reasonable royalty is paid later.",
+    "Actor‑Affected (Target)": "Users of integrated circuits"
+  },
+  {
+    "Provision": "TRIPS Article 37(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to apply the rules of non-voluntary licensing from Article 31 to layout-designs under equivalent conditions.",
+    "Actor‑Affected (Target)": "Users and design owners"
+  },
+  {
+    "Provision": "TRIPS Article 38(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to guarantee a minimum 10-year protection period for registered layout-designs.",
+    "Actor‑Affected (Target)": "Layout‑design owners"
+  },
+  {
+    "Provision": "TRIPS Article 38(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide at least 10 years of protection from first commercial use for unregistered layout-designs.",
+    "Actor‑Affected (Target)": "Layout‑design owners"
+  },
+  {
+    "Provision": "TRIPS Article 38(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to limit layout-design protection to 15 years after creation, offering discretion over protection duration.",
+    "Actor‑Affected (Target)": "Layout‑design owners"
+  },
+  {
+    "Provision": "TRIPS Article 39(1–2)",
+    "Actor‑Holder": "Information holders (e.g. companies or researchers)",
+    "Action": "Claim‑Right to prevent unauthorized acquisition, disclosure, or use of protected undisclosed information by third parties.",
+    "Actor‑Affected (Target)": "Third parties and competitors"
+  },
+  {
+    "Provision": "TRIPS Article 39(3)",
+    "Actor‑Holder": "Data submitters (e.g. innovators in MGR‑derived products)",
+    "Action": "Duty to protect confidential test data submitted for regulatory approval from unfair commercial use, while balancing public interest.",
+    "Actor‑Affected (Target)": "Government agencies and competitors"
+  },
+  {
+    "Provision": "TRIPS Article 40(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to prevent anti-competitive licensing practices that hinder trade or technology transfer, supporting fair access to MGR‑related technologies.",
+    "Actor‑Affected (Target)": "Potential licensees and innovators"
+  },
+  {
+    "Provision": "TRIPS Article 40(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to engage in consultations with other Members concerning potentially abusive IP licensing practices affecting market access or technology dissemination.",
+    "Actor‑Affected (Target)": "Other Member States"
+  },
+  {
+    "Provision": "TRIPS Article 41(1)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to order opposing parties to produce relevant evidence, with safeguards to maintain confidentiality.",
+    "Actor‑Affected (Target)": "Opposing parties"
+  },
+  {
+    "Provision": "TRIPS Article 42",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to ensure fair, efficient, and equitable judicial procedures for enforcing IP rights, avoiding excessive burdens on parties.",
+    "Actor‑Affected (Target)": "Right holder (including MGR inventors) and defendants"
+  },
+  {
+    "Provision": "TRIPS Article 43(1)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to require opposing parties to disclose evidence necessary to support a claim, with protection for confidential information.",
+    "Actor‑Affected (Target)": "Opposing parties"
+  },
+  {
+    "Provision": "TRIPS Article 43(2)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to make determinations based on available evidence if a party unjustifiably refuses to supply necessary information.",
+    "Actor‑Affected (Target)": "States Parties in enforcement proceedings"
+  },
+  {
+    "Provision": "TRIPS Article 44(1)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to issue injunctions ordering infringers to cease unlawful use of IP rights and prevent importation of infringing goods.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 44(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Power to limit remedies for certain unauthorized uses to monetary compensation, especially in the public interest.",
+    "Actor‑Affected (Target)": "Right holder"
+  },
+  {
+    "Provision": "TRIPS Article 45(1)",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to receive damages from infringers who knowingly violated IP rights, compensating the right holder for injury caused.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 45(2)",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to be reimbursed for legal expenses and potentially recover profits or pre‑set damages even when infringement was not intentional.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 46(1)",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to have infringing goods removed from the market without compensation, protecting legitimate markets for MGR‑based products.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 46(2)",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to have materials primarily used in infringement removed to prevent continued production of unauthorized goods.",
+    "Actor‑Affected (Target)": "Infringer and related suppliers"
+  },
+  {
+    "Provision": "TRIPS Article 47",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to require infringers to disclose third parties involved in the production or distribution chain of infringing goods.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 48(1)",
+    "Actor‑Holder": "Affected Party (defendant)",
+    "Action": "Claim‑Right to compensation when wrongly subjected to enforcement measures due to procedural abuse by the requesting party.",
+    "Actor‑Affected (Target)": "Requesting Party abusing enforcement procedures"
+  },
+  {
+    "Provision": "TRIPS Article 48(2)",
+    "Actor‑Holder": "Affected Party (defendant)",
+    "Action": "Claim‑Right to recover legal expenses from a party who requested enforcement but caused unjustified harm to the defendant.",
+    "Actor‑Affected (Target)": "Patent applicant"
+  },
+  {
+    "Provision": "TRIPS Article 49",
+    "Actor‑Holder": "Member State/Administrators",
+    "Action": "Duty to ensure that remedies issued through administrative channels meet the same fairness and effectiveness standards as judicial ones.",
+    "Actor‑Affected (Target)": "Right holder and defendants"
+  },
+  {
+    "Provision": "TRIPS Article 50(1)",
+    "Actor‑Holder": "Patent/Right Holder",
+    "Action": "Claim‑Right to request prompt and effective provisional measures to prevent infringement and preserve evidence.",
+    "Actor‑Affected (Target)": "Infringer"
+  },
+  {
+    "Provision": "TRIPS Article 50(2)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to issue ex parte provisional measures in urgent cases, with a duty to review and notify the affected party.",
+    "Actor‑Affected (Target)": "Infringer and other parties"
+  },
+  {
+    "Provision": "TRIPS Article 50(3)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to require evidence and security from applicants to justify provisional measures and prevent abuse.",
+    "Actor‑Affected (Target)": "Patent applicant"
+  },
+  {
+    "Provision": "TRIPS Article 50(4)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Duty to provide timely notice and review of provisional measures taken without hearing the other party.",
+    "Actor‑Affected (Target)": "Affected parties"
+  },
+  {
+    "Provision": "TRIPS Article 50(5)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Duty to ensure the applicant provides identifying information for infringing goods to enable enforcement.",
+    "Actor‑Affected (Target)": "Patent applicant"
+  },
+  {
+    "Provision": "TRIPS Article 50(6)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Duty to revoke provisional measures if no proceedings are initiated within the set timeframe.",
+    "Actor‑Affected (Target)": "Infringer, applicant"
+  },
+  {
+    "Provision": "TRIPS Article 50(7)",
+    "Actor‑Holder": "Judicial Authorities",
+    "Action": "Power to require the applicant to compensate for injury caused by provisional measures that are revoked or unjustified.",
+    "Actor‑Affected (Target)": "Patent applicant"
+  },
+  {
+    "Provision": "TRIPS Article 50(8)",
+    "Actor‑Holder": "Member States/Administrators",
+    "Action": "Duty to ensure that administrative provisional measures comply with judicial fairness and efficiency standards.",
+    "Actor‑Affected (Target)": "Right holder and defendants"
+  },
+  {
+    "Provision": "TRIPS Article 51(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide procedures enabling right holders to request customs to suspend the release of infringing goods.",
+    "Actor‑Affected (Target)": "Customs authorities; infringer"
+  },
+  {
+    "Provision": "TRIPS Article 51(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to extend suspension procedures to other IP-infringing goods where applicable requirements are met.",
+    "Actor‑Affected (Target)": "Customs authorities; infringer"
+  },
+  {
+    "Provision": "TRIPS Art. 52",
+    "Actor‑Holder": "Right Holder",
+    "Action": "Duty to provide evidence and a clear description of goods when initiating customs suspension procedures.",
+    "Actor‑Affected (Target)": "Competent customs authorities"
+  },
+  {
+    "Provision": "TRIPS Art. 52",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to notify the applicant promptly of the acceptance and duration of customs actions.",
+    "Actor‑Affected (Target)": "Right holder (applicant)"
+  },
+  {
+    "Provision": "TRIPS Art. 53(1)",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to require the applicant to provide security to protect defendants and authorities from procedural abuse.",
+    "Actor‑Affected (Target)": "Patent/right holder (via applicant)"
+  },
+  {
+    "Provision": "TRIPS Art. 53(2)",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to allow the release of suspended goods upon posting security that protects the right holder’s interests.",
+    "Actor‑Affected (Target)": "Owner, importer, or consignee of the goods"
+  },
+  {
+    "Provision": "TRIPS Art. 54",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to notify both importers and applicants immediately of goods suspension decisions.",
+    "Actor‑Affected (Target)": "Importers and applicants"
+  },
+  {
+    "Provision": "TRIPS Art. 55",
+    "Actor‑Holder": "Customs Authorities",
+    "Action": "Duty to release goods if proceedings are not initiated within a specified period, ensuring timely resolution.",
+    "Actor‑Affected (Target)": "Importers, applicants, right holder"
+  },
+  {
+    "Provision": "TRIPS Art. 55",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to review the suspension and allow affected parties a right to be heard once proceedings are underway.",
+    "Actor‑Affected (Target)": "Defendant (applicant/importer)"
+  },
+  {
+    "Provision": "TRIPS Art. 56",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to provide compensation to affected parties for wrongful detention of goods.",
+    "Actor‑Affected (Target)": "Importer, consignee, owner of the goods"
+  },
+  {
+    "Provision": "TRIPS Art. 57",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to allow right holders to inspect detained goods and obtain relevant enforcement-related information.",
+    "Actor‑Affected (Target)": "Right holder (e.g., patent owner)"
+  },
+  {
+    "Provision": "TRIPS Art. 58(a)",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Power to request additional information from the right holder to support ex officio enforcement.",
+    "Actor‑Affected (Target)": "Right holder"
+  },
+  {
+    "Provision": "TRIPS Art. 58(b)",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Duty to notify importers and right holders promptly when ex officio suspension is initiated.",
+    "Actor‑Affected (Target)": "Importers and right holder"
+  },
+  {
+    "Provision": "TRIPS Art. 58(c)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity for public authorities and officials acting in good faith during IP enforcement.",
+    "Actor‑Affected (Target)": "Public authorities and officials"
+  },
+  {
+    "Provision": "TRIPS Art. 59",
+    "Actor‑Holder": "Competent Authorities",
+    "Action": "Power to order the destruction or disposal of infringing goods, removing unauthorized items from the market.",
+    "Actor‑Affected (Target)": "Infringer; counterfeit goods"
+  },
+  {
+    "Provision": "TRIPS Art. 60",
+    "Actor‑Holder": "Member States",
+    "Action": "Liberty to exclude non-commercial, small-quantity imports from enforcement provisions.",
+    "Actor‑Affected (Target)": "Importers and applicants"
+  },
+  {
+    "Provision": "TRIPS Article 61",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide criminal procedures and penalties for commercial-scale IP infringement.",
+    "Actor‑Affected (Target)": "Infringer (e.g. counterfeiters)"
+  },
+  {
+    "Provision": "TRIPS Article 62",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to ensure reasonable procedures for acquiring or maintaining IP rights.",
+    "Actor‑Affected (Target)": "Patent/IP applicants (including MGR‑derived inventions)"
+  },
+  {
+    "Provision": "TRIPS Article 63",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to publish and provide access to laws, regulations, and decisions on IP enforcement.",
+    "Actor‑Affected (Target)": "Governments, right holder, stakeholders"
+  },
+  {
+    "Provision": "TRIPS Article 64(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to resolve disputes through standardized WTO dispute settlement mechanisms.",
+    "Actor‑Affected (Target)": "Disputing parties"
+  },
+  {
+    "Provision": "TRIPS Article 64(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from certain GATT-based complaint procedures for five years.",
+    "Actor‑Affected (Target)": "Potential complainants"
+  },
+  {
+    "Provision": "TRIPS Article 64(3)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Power to propose and review the scope of restricted complaints for Ministerial Conference approval.",
+    "Actor‑Affected (Target)": "Member States"
+  },
+  {
+    "Provision": "TRIPS Article 65",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty/Liberty to delay the application of TRIPS provisions during the first year of implementation.",
+    "Actor‑Affected (Target)": "All IP applicants (including MGR‑derived inventions)"
+  },
+  {
+    "Provision": "TRIPS Article 66",
+    "Actor‑Holder": "LDC Members",
+    "Action": "Duty/Claim-Right to delay implementation for LDCs and to receive technology transfer incentives.",
+    "Actor‑Affected (Target)": "LDC Members; IP right holders"
+  },
+  {
+    "Provision": "TRIPS Article 67",
+    "Actor‑Holder": "Developed country Members",
+    "Action": "Duty to provide technical and financial cooperation to developing and LDC Members.",
+    "Actor‑Affected (Target)": "Developing and LDC Members"
+  },
+  {
+    "Provision": "TRIPS Article 68 (1st sentence)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Duty to monitor implementation of TRIPS and provide consultations on trade-related IP issues.",
+    "Actor‑Affected (Target)": "Member States; Right holder"
+  },
+  {
+    "Provision": "TRIPS Article 68 (2nd sentence)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Power to assist with dispute settlement and consult relevant information sources.",
+    "Actor‑Affected (Target)": "Disputing parties, Members States"
+  },
+  {
+    "Provision": "TRIPS Article 69",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to establish cooperation mechanisms and information exchange on trade in infringing goods.",
+    "Actor‑Affected (Target)": "Customs authorities; infringing traders"
+  },
+  {
+    "Provision": "TRIPS Article 70(1)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from retroactive obligations for acts before TRIPS application.",
+    "Actor‑Affected (Target)": "Historical IP right holder"
+  },
+  {
+    "Provision": "TRIPS Article 70(2)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to apply TRIPS only to subject matter existing or qualifying at the date of application.",
+    "Actor‑Affected (Target)": "Right holder"
+  },
+  {
+    "Provision": "TRIPS Article 70(3)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from restoring protection for subject matter in the public domain at application.",
+    "Actor‑Affected (Target)": "Right holder"
+  },
+  {
+    "Provision": "TRIPS Article 70(4)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to provide limited remedies for prior investments with equitable remuneration.",
+    "Actor‑Affected (Target)": "Right holder"
+  },
+  {
+    "Provision": "TRIPS Article 70(5)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from applying certain provisions to pre-agreement purchases.",
+    "Actor‑Affected (Target)": "Buyers of protected subject matter"
+  },
+  {
+    "Provision": "TRIPS Article 70(6)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from enforcing new conditions on previously authorized uses.",
+    "Actor‑Affected (Target)": "Right holder, users"
+  },
+  {
+    "Provision": "TRIPS Article 70(7)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to permit amendments to pending applications to reflect enhanced protection.",
+    "Actor‑Affected (Target)": "Patent applicants"
+  },
+  {
+    "Provision": "TRIPS Article 70(8)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to allow filing and apply TRIPS criteria retroactively in specific cases.",
+    "Actor‑Affected (Target)": "Patent applicants"
+  },
+  {
+    "Provision": "TRIPS Article 70(9)",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to grant temporary exclusive marketing rights for patent-pending products.",
+    "Actor‑Affected (Target)": "Product inventors, including MGR‑derived products"
+  },
+  {
+    "Provision": "TRIPS Article 71(1)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Duty to review TRIPS implementation after the transitional period and regularly thereafter.",
+    "Actor‑Affected (Target)": "Member States; IP right holder"
+  },
+  {
+    "Provision": "TRIPS Article 71(2)",
+    "Actor‑Holder": "Council for TRIPS",
+    "Action": "Power to propose amendments aligned with higher IP protection standards.",
+    "Actor‑Affected (Target)": "Member States"
+  },
+  {
+    "Provision": "TRIPS Article 72",
+    "Actor‑Holder": "Member States",
+    "Action": "Duty to obtain unanimous consent before making reservations to TRIPS provisions.",
+    "Actor‑Affected (Target)": "Member States"
+  },
+  {
+    "Provision": "TRIPS Article 73(a)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity from disclosing information that would compromise essential security interests.",
+    "Actor‑Affected (Target)": "Right holder; requesters of information"
+  },
+  {
+    "Provision": "TRIPS Article 73(b)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity to take actions necessary for protecting essential national security interests.",
+    "Actor‑Affected (Target)": "External parties"
+  },
+  {
+    "Provision": "TRIPS Article 73(c)",
+    "Actor‑Holder": "Member States",
+    "Action": "Immunity to act under the UN Charter for maintaining international peace and security.",
+    "Actor‑Affected (Target)": "External parties"
+  }
+]
