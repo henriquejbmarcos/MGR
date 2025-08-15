@@ -1,0 +1,730 @@
+﻿[
+  {
+    "Unique_ID": "NAGOYA_M043",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 4(2)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May develop and implement other relevant international agreements supportive of and not running counter to CBD/Nagoya objectives.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M044",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 4(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Implement this Protocol in a mutually supportive manner with other relevant international instruments and organizations; pay due regard to useful ongoing work/practices.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "NAGOYA_M046",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 5(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Ensure benefits from utilization of genetic resources are shared fairly and equitably with the providing Party (country of origin or Party that acquired in accordance with the CBD), on mutually agreed terms.",
+    "actoraffected": "Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M047",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 5(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Ensure benefits from utilization of genetic resources held by IPLCs are shared fairly and equitably with the concerned communities, based on mutually agreed terms.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M048",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 5(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Take legislative/administrative/policy measures to implement paragraph 5(1).",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M050",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 5(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Ensure benefits from utilization of TK associated with genetic resources are shared fairly and equitably with IPLCs holding such knowledge, on mutually agreed terms.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M051",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Create legal certainty, clarity and transparency in domestic ABS legislation/regulatory requirements for access to genetic resources where PIC is required.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M052",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Ensure PIC or approval and involvement of IPLCs is obtained for access to genetic resources where IPLCs have the established right to grant access.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M053",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Provide for legal certainty, clarity and transparency of domestic ABS legislation/regulatory requirements.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M054",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Provide fair and non-arbitrary rules and procedures for accessing genetic resources.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M055",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Provide information on how to apply for PIC.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M056",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(d)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Provide a clear, transparent written PIC decision by a competent authority, cost-effectively and within a reasonable period.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M057",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(e)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Issue a permit (or equivalent) at the time of access as evidence of PIC and MAT; notify the ABS Clearing-House accordingly.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M058",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(f)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Set criteria/processes for obtaining IPLC PIC or approval and involvement, where applicable and subject to domestic law.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M059",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 6(3)(g)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Establish clear rules and procedures for requiring/establishing MAT in writing (e.g., dispute settlement, benefit-sharing incl. IP, third-party use, change of intent).",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M060",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 7(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Ensure access to TK associated with genetic resources held by IPLCs occurs with PIC/approval and involvement of IPLCs, and that MAT are established.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M061",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 7(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Establish mechanisms (with effective IPLC participation) to inform potential users of TK about obligations, including measures available via the ABS Clearing-House.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M062",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 7(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Support IPLCs (including women) to develop community protocols, minimum MAT requirements, and model contractual clauses for TK ABS.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M063",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 8(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Create conditions to promote/encourage research contributing to conservation/sustainable use, including simplified access for non-commercial research; address changes of intent.",
+    "actoraffected": "Researchers"
+  },
+  {
+    "Unique_ID": "NAGOYA_M064",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 8(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Pay due regard to health emergencies; may consider expeditious access and expeditious fair/equitable benefit-sharing, including access to affordable treatments (esp. for developing countries).",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "NAGOYA_M065",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 8(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Consider the importance of genetic resources for food and agriculture and their special role for food security.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M066",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 9",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Encourage users and providers to direct benefits from utilization of genetic resources towards conservation and sustainable use.",
+    "actoraffected": "Resource Users; Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M067",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 10",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Consider the need for and modalities of a global multilateral benefit-sharing mechanism for transboundary/unclear-PIC situations; benefits shared through it to be used for global conservation/sustainable use.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M068",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 11(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall endeavour to cooperate, as appropriate, where the same genetic resources are found in situ within more than one Party, with the involvement of the concerned IPLCs where applicable.",
+    "actoraffected": "Other Contracting Parties; IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M069",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 11(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall endeavour to cooperate, as appropriate, where the same TK associated with genetic resources is shared by IPLCs in several Parties, with the involvement of the concerned IPLCs.",
+    "actoraffected": "Other Contracting Parties; IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M070",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 12(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, in accordance with domestic law, take into consideration IPLCs’ customary laws, community protocols and procedures with respect to TK associated with genetic resources.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M071",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 12(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall establish mechanisms (with effective IPLC participation) to inform potential users of TK associated with genetic resources about their obligations, including via the ABS Clearing-House.",
+    "actoraffected": "Resource Users; Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M072",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 12(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (endeavour): Shall support, as appropriate, the development by IPLCs (including women) of community protocols, minimum MAT requirements and model contractual clauses for TK ABS.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M073",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 12(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, as far as possible, not restrict customary use and exchange of genetic resources and associated TK within and amongst IPLCs, consistent with CBD objectives.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M074",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall designate a national focal point and ensure it makes available the specified access/benefit-sharing information to applicants.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M075",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(1)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available to applicants information on procedures for obtaining PIC and establishing MAT for genetic resources.",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M076",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(1)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, where possible, make available to applicants information on procedures for obtaining IPLC PIC/approval and involvement for TK and on establishing MAT.",
+    "actoraffected": "Resource Users; IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M077",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(1)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available contact details of the national focal point and competent national authority(ies).",
+    "actoraffected": "Resource Users"
+  },
+  {
+    "Unique_ID": "NAGOYA_M078",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall designate one or more competent national authorities and notify the Secretariat; where multiple, indicate responsibilities.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "NAGOYA_M079",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available to the ABS Clearing-House any information required by the Protocol and COP/MOP decisions.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M080",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall forthwith notify the Secretariat of contact information for the national focal point and competent national authority(ies) and any changes thereto.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "NAGOYA_M081",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 13(5)",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall make information received under Article 13(4) available through the ABS Clearing-House.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M082",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(1)",
+    "actorholder": "Clearing-House",
+    "action": "Duty: Shall serve as a means for sharing ABS-related information and provide access to information made available by each Party relevant to Protocol implementation.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M083",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available to the ABS Clearing-House information required by the Protocol and by COP/MOP decisions.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M084",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(2)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available ABS legislative, administrative and policy measures.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M085",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(2)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available information on the national focal point and competent national authority(ies).",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M086",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(2)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make available permits or their equivalent issued at the time of access as evidence of PIC and MAT.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M087",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(3)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May make available additional information (e.g., IPLC competent authorities; model clauses; monitoring methods/tools; codes of conduct/best practices).",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M088",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 14(4)",
+    "actorholder": "COP",
+    "action": "Power: Shall decide the modalities of operation of the ABS Clearing-House and keep them under review.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M089",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 15(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take appropriate, effective and proportionate measures to ensure GR utilized within its jurisdiction have been accessed with PIC and that MAT have been established, as required by provider Party domestic law.",
+    "actoraffected": "Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M090",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 15(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take appropriate, effective and proportionate measures to address situations of non-compliance with measures adopted under Article 15(1).",
+    "actoraffected": "Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M091",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 15(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, as far as possible and as appropriate, cooperate in cases of alleged violation of provider Party domestic ABS legislation or regulatory requirements.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M092",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 16(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take appropriate, effective and proportionate measures to ensure TK utilization within its jurisdiction is subject to IPLC PIC/approval and involvement and MAT, as required by provider Party domestic law.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M093",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 16(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take appropriate, effective and proportionate measures to address situations of non-compliance with measures adopted under Article 16(1).",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M094",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 16(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, as far as possible and as appropriate, cooperate in cases of alleged violation of domestic legislation or regulatory requirements referred to in Article 16(1).",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M095",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 17(1)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall designate one or more effective checkpoints to collect/receive relevant PIC, source and MAT information and (without prejudice to confidentiality) provide it to relevant national authorities, the providing Party and the ABS Clearing-House.",
+    "actoraffected": "Clearing-House; Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M096",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 17(1)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (encourage): Shall encourage inclusion in MAT of provisions to share information on implementation, including through reporting requirements.",
+    "actoraffected": "Resource Users; Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M097",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 17(1)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (encourage): Shall encourage the use of cost-effective communication tools and systems.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "NAGOYA_M098",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 17(2)",
+    "actorholder": "N/A",
+    "action": "Non-Hohfeld (Recognition): A permit (or equivalent) issued under Article 6(3)(e) and made available to the ABS Clearing-House constitutes an internationally recognized certificate of compliance.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M099",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 17(3)",
+    "actorholder": "N/A",
+    "action": "Non-Hohfeld (Evidentiary effect): An internationally recognized certificate of compliance serves as evidence that PIC was obtained and MAT established as required by provider Party domestic law.",
+    "actoraffected": "Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M100",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 18(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall encourage providers and users to include in MAT appropriate dispute resolution provisions (jurisdiction, applicable law, and/or ADR).",
+    "actoraffected": "Resource Users; Resource-Providing Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M101",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 18(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure an opportunity to seek recourse is available under domestic legal systems for disputes arising from MAT.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M102",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 18(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take effective measures on access to justice and on mechanisms for mutual recognition and enforcement of foreign judgments and arbitral awards.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M103",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 18(4)",
+    "actorholder": "COP",
+    "action": "Duty: Shall review the effectiveness of Article 18 in accordance with Article 31.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M104",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 19(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (encourage): Shall encourage development, update and use of sectoral and cross-sectoral model contractual clauses for MAT.",
+    "actoraffected": "Private Sector; Stakeholders"
+  },
+  {
+    "Unique_ID": "NAGOYA_M105",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 19(2)",
+    "actorholder": "COP",
+    "action": "Duty: Shall periodically take stock of the use of model contractual clauses.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M106",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 20(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (encourage): Shall encourage development, update and use of voluntary ABS codes of conduct, guidelines and best practices and/or standards.",
+    "actoraffected": "Stakeholders; Private Sector"
+  },
+  {
+    "Unique_ID": "NAGOYA_M107",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 20(2)",
+    "actorholder": "COP",
+    "action": "Duty: Shall periodically take stock of such voluntary instruments and consider adoption of specific ones.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M108",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 21",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take measures to raise awareness of the importance of genetic resources and TK associated with genetic resources, and related ABS issues (e.g., promotion of the Protocol; meetings for IPLCs/stakeholders; help desk; national clearing-house).",
+    "actoraffected": "Stakeholders; IPLCs"
+  },
+  {
+    "Unique_ID": "NAGOYA_M109",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall cooperate in capacity-building, capacity development and strengthening of human resources/institutions to implement the Protocol, including through existing institutions.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "NAGOYA_M110",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Should facilitate involvement of IPLCs and relevant stakeholders (including NGOs and the private sector) in capacity-building.",
+    "actoraffected": "IPLCs; Stakeholders; Private Sector"
+  },
+  {
+    "Unique_ID": "NAGOYA_M111",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take full account of the financial resource needs of developing country Parties (incl. LDCs and SIDS) and Parties with economies in transition for capacity-building to implement the Protocol.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "NAGOYA_M112",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Should address key capacity areas inter alia: (a) implement/comply with Protocol; (b) negotiate MAT; (c) develop/implement/enforce domestic ABS measures; (d) develop endogenous research capacity to add value to domestic genetic resources.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "NAGOYA_M113",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: May adopt measures inter alia: legal/institutional development; training for fair MAT negotiations; monitoring/enforcement of compliance; use of best available communication tools and internet-based systems.",
+    "actoraffected": "Developing States; Stakeholders"
+  },
+  {
+    "Unique_ID": "NAGOYA_M114",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 22(6)",
+    "actorholder": "Contracting Party",
+    "action": "Duty (encourage): Should provide information on capacity-building initiatives at national/regional/international levels to the ABS Clearing-House.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M115",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 23",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall collaborate and cooperate in technical/scientific R&D programmes (including biotech) and promote/encourage access to and transfer of technology to developing country Parties and economies in transition.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "NAGOYA_M116",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 24",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall encourage non-Parties to adhere to the Protocol.",
+    "actoraffected": "Non-Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M117",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 24",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall encourage non-Parties to contribute appropriate information to the ABS Clearing-House.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "NAGOYA_M118",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 25(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: When considering financial resources for implementation, shall take into account CBD Article 20 provisions.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M119",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 25(2)",
+    "actorholder": "Relevant Bodies",
+    "action": "Duty: Serve as the financial mechanism for this Protocol (the Convention’s financial mechanism applies).",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M120",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 25(3)",
+    "actorholder": "COP",
+    "action": "Duty: In guidance to the financial mechanism, shall take into account the needs of developing country Parties (incl. LDCs, SIDS) and Parties with economies in transition for capacity-building and development.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "NAGOYA_M121",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 26(1)",
+    "actorholder": "COP",
+    "action": "Non-Hohfeld (Institutional): Serves as the meeting of the Parties to this Protocol.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M122",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 26(2)",
+    "actorholder": "Non-Parties",
+    "action": "Liberty: May participate as observers in COP/MOP proceedings; decisions under the Protocol are taken only by Parties to it.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "NAGOYA_M123",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 26(4)",
+    "actorholder": "COP",
+    "action": "Duty: Shall keep under regular review implementation of the Protocol and make decisions necessary to promote its effective implementation.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M124",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 26(5)",
+    "actorholder": "COP",
+    "action": "Duty: Shall adopt rules of procedure and financial rules (including funding by Parties) for the Protocol’s bodies.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M125",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 27(1)",
+    "actorholder": "Relevant Bodies",
+    "action": "Liberty: Subsidiary bodies under the Convention may serve the Protocol, providing advice and reporting to the COP/MOP.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "NAGOYA_M126",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 27(2)",
+    "actorholder": "COP",
+    "action": "Power: May establish additional subsidiary bodies as deemed necessary for Protocol implementation.",
+    "actoraffected": "Subsidiary bodies"
+  },
+  {
+    "Unique_ID": "NAGOYA_M127",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 28(1)",
+    "actorholder": "Secretariat",
+    "action": "Duty: The Secretariat under CBD shall serve as the Secretariat to this Protocol.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M128",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 28(2)",
+    "actorholder": "Secretariat",
+    "action": "Duty: Arrange/service COP/MOP and subsidiary body meetings and perform functions assigned by the COP/MOP.",
+    "actoraffected": "COP; Subsidiary bodies"
+  },
+  {
+    "Unique_ID": "NAGOYA_M129",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 28(2)",
+    "actorholder": "Secretariat",
+    "action": "Duty: Coordinate with relevant international bodies and prepare reports on Protocol implementation for the COP/MOP.",
+    "actoraffected": "COP; Relevant Bodies"
+  },
+  {
+    "Unique_ID": "NAGOYA_M130",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 29(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall monitor implementation of obligations under the Protocol.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "NAGOYA_M131",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 29(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall report to the COP/MOP at intervals determined by it on measures taken to implement the Protocol.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "NAGOYA_M132",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 30(1)",
+    "actorholder": "COP",
+    "action": "Duty/Power: At its first meeting, shall consider and approve cooperative procedures and institutional mechanisms to promote compliance and address cases of non-compliance.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M133",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 30(2)",
+    "actorholder": "COP",
+    "action": "Duty: Ensure compliance procedures include advice/assistance; are separate from and without prejudice to dispute settlement; and are simple, non-adversarial, non-punitive and cooperative.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "NAGOYA_M134",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 30(3)",
+    "actorholder": "Implementation and Compliance Committee",
+    "action": "Duty: Shall carry out its functions under COP/MOP guidance and report to the COP/MOP, operating in a manner consistent with Article 30(2).",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "NAGOYA_M135",
+    "Treaty": "Nagoya",
+    "provision": "Nagoya, Article 31",
+    "actorholder": "COP",
+    "action": "Duty: Shall undertake assessment and review of the Protocol’s effectiveness (first within four years of entry into force, then at intervals decided), based on information provided by Parties.",
+    "actoraffected": "Contracting Party"
+  }
+]
