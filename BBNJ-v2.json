@@ -1,0 +1,1546 @@
+﻿[
+  {
+    "Unique_ID": "BBNJ_M001",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 4",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Agreement does not apply to warships, military aircraft or naval auxiliaries.",
+    "actoraffected": "Military Actors"
+  },
+  {
+    "Unique_ID": "BBNJ_M002",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 4",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure, so far as is reasonable and practicable, that such vessels/aircraft act consistently with the Agreement.",
+    "actoraffected": "Military Actors"
+  },
+  {
+    "Unique_ID": "BBNJ_M003",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 5(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall interpret and apply the Agreement in a manner consistent with the Convention.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M004",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 5(1)",
+    "actorholder": "Contracting Party",
+    "action": "Immunity: Rights, jurisdiction and duties under the Convention are not prejudiced by this Agreement.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M005",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 5(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall interpret and apply so as not to undermine and to promote coherence and coordination with relevant instruments, frameworks and bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M006",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 5(3)",
+    "actorholder": "Non-Parties",
+    "action": "Immunity: Legal status with regard to the Convention or related agreements is not affected by this Agreement.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M007",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 6",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Shall not rely on this Agreement to assert or deny sovereignty, sovereign rights or jurisdiction.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M008",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 7",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall be guided by listed principles and approaches (e.g., polluter-pays, equity, precaution, best available science).",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M009",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 8(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must cooperate for conservation and sustainable use in ABNJ, including by strengthening and enhancing cooperation with and among relevant instruments, frameworks and bodies.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M010",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 8(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall endeavour to promote the Agreement’s objectives in other relevant decision-making processes.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M011",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 8(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must promote international cooperation in marine scientific research and in the development and transfer of marine technology.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M012",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 10(1)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May make a written exception under Article 70 at signature/ratification/approval/acceptance/accession, excluding pre-entry utilization from application.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M013",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 10(3)",
+    "actorholder": "Contracting Party",
+    "action": "Immunity: Obligations in this Part do not apply to a Party’s military activities; obligations do apply to non-military activities.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M014",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(1)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May carry out MGR/DSI activities in ABNJ (subject to the Agreement).",
+    "actoraffected": "Affected Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M015",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must carry out such MGR/DSI activities in accordance with the Agreement.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M016",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must promote cooperation in all MGR/DSI activities.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M017",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must carry out collection in situ with due regard for the rights and legitimate interests of coastal States, and with due regard for the interests of other States.",
+    "actoraffected": "Coastal States"
+  },
+  {
+    "Unique_ID": "BBNJ_M018",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(4)",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Cannot claim or exercise sovereignty or sovereign rights over MGR of ABNJ; no such claim shall be recognized.",
+    "actoraffected": "Affected Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M019",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(5)",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Collection in situ of MGR of ABNJ does not constitute a legal basis for any claim to any part of the marine environment or its resources.",
+    "actoraffected": "Affected Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M020",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 11(7)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must carry out MGR/DSI activities exclusively for peaceful purposes.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M021",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must take measures to ensure information is notified to the Clearing-House Mechanism in accordance with this Part.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M022",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify the nature and objectives of planned in situ collection (and any programme(s) it forms part of).",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M023",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify the research subject matter or, if known, targeted MGR and the purposes for collection.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M024",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify the geographical areas of collection.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M025",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(d)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify a summary of methods/means, including vessel name/tonnage/type/class and equipment/study methods.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M026",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(e)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify information on other contributions to proposed major programmes.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M027",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(f)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify expected dates of first appearance and final departure of research vessels, or equipment deployment/removal.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M028",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(g)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify sponsoring institution(s) and person in charge.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M029",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(h)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify opportunities for scientists of all States, in particular from developing States, to be involved or associated.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M030",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(i)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify how States needing/requesting technical assistance (in particular developing States) can participate or be represented.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M031",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(2)(j)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify a data management plan prepared according to open and responsible data governance, taking into account current international practice.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M032",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(3)",
+    "actorholder": "Clearing-House",
+    "action": "Duty: Must automatically generate a “BBNJ” standardized batch identifier upon receipt of the prior notification.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M033",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify updated information upon material change prior to collection, within a reasonable period and no later than the start of collection in situ, when practicable.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M034",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must notify specified post-collection information (incl. repository/database locations, deposit of samples, area/depth report, updates to data management plan) as soon as available, and no later than one year from collection in situ.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M035",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(6)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure samples/DSI in repositories or databases under their jurisdiction can be identified as originating from ABNJ, in accordance with current international practice and to the extent practicable.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M036",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(7)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure repositories (to the extent practicable) and databases under their jurisdiction prepare biennial aggregate reports linked to the “BBNJ” batch identifier and make them available to the ABS Committee.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M037",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(8)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure notification (as soon as available) of where results of utilization (e.g., publications; patents granted, if available and to the extent possible; products developed) can be found, including the “BBNJ” identifier if available.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M038",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(8)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure notification of details of the post-collection notification related to utilized MGR.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M039",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(8)(c)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure notification of where the original MGR sample is held.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M040",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 12(8)(d)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure notification of access modalities for MGR/DSI being utilized and a data management plan for the same.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M041",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 13",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must take measures to ensure access to TK of ABNJ held by IPLCs only with FPIC/approval and involvement, and that access/use is on mutually agreed terms.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "BBNJ_M042",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 13",
+    "actorholder": "Clearing-House",
+    "action": "Liberty: May facilitate access to such traditional knowledge.",
+    "actoraffected": "IPLCs"
+  },
+  {
+    "Unique_ID": "BBNJ_M043",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure benefits from utilization of MGR/DSI of ABNJ are shared fairly and equitably in accordance with this Part.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M044",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must share non-monetary benefits in the forms listed (e.g., access to samples/DSI, FAIR data, technology transfer, capacity-building).",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M045",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must ensure MGR/DSI subject to utilization are deposited in publicly accessible repositories/databases within timelines set.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M046",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(4)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May subject access to MGR/DSI in repositories/databases under its jurisdiction to reasonable conditions.",
+    "actoraffected": "Researchers"
+  },
+  {
+    "Unique_ID": "BBNJ_M047",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must share monetary benefits fairly and equitably through the financial mechanism under Article 52.",
+    "actoraffected": "Concerned Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M048",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(6)",
+    "actorholder": "Developed States",
+    "action": "Duty: Must make annual contributions to the special fund referred to in Article 52 until COP decides otherwise.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M049",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(7)",
+    "actorholder": "COP",
+    "action": "Power: May decide modalities for sharing monetary benefits (3/4 majority if consensus fails).",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M050",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(8)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May declare that adopted modalities shall not take effect for up to four years for that Party.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M051",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 14(10)",
+    "actorholder": "COP",
+    "action": "Duty: Shall review and assess biennially the monetary benefits and related contributions; first review within five years of entry into force.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M052",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(2)",
+    "actorholder": "COP",
+    "action": "Power: Elects members of the ABS Committee nominated by Parties; determines its terms of reference and modalities.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M053",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(2)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May nominate members to the ABS Committee.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M054",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(3)",
+    "actorholder": "Access and Benefit-Sharing Committee",
+    "action": "Power: May make recommendations to the COP on guidelines, measures and rates/modalities under Part II.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M055",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Must make required ABS information available to the ABS Committee through the Clearing-House.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M056",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(5)",
+    "actorholder": "Access and Benefit-Sharing Committee",
+    "action": "Power: May exchange information with relevant legal instruments/frameworks and relevant bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M057",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 15(6)",
+    "actorholder": "Access and Benefit-Sharing Committee",
+    "action": "Power: May make recommendations to the COP based on information obtained.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M058",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(1)",
+    "actorholder": "COP",
+    "action": "Power: Adopts procedures for monitoring/transparency (incl. use of “BBNJ” batch identifiers) as recommended by the ABS Committee.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M059",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(1)",
+    "actorholder": "Access and Benefit-Sharing Committee",
+    "action": "Power: Recommends procedures for monitoring/transparency to the COP.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M060",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall periodically submit reports on implementation of Part II to the ABS Committee.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M061",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(3)",
+    "actorholder": "Access and Benefit-Sharing Committee",
+    "action": "Duty: Shall prepare a report (based on CHM info), make it available to Parties, and submit it for COP consideration.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M062",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(3)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May submit comments on the ABS Committee report.",
+    "actoraffected": "Access and Benefit-Sharing Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M063",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 16(3)",
+    "actorholder": "COP",
+    "action": "Power: May determine appropriate guidelines for implementing Article 16, taking into account Parties’ capacities and circumstances.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M064",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 18",
+    "actorholder": "COP",
+    "action": "Disability: Shall not consider for decision proposals that include any areas within national jurisdiction.",
+    "actoraffected": "Proponent or Requesting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M065",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 18",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Shall not rely on ABMT/MPA establishment as a basis for asserting or denying sovereignty, sovereign rights or jurisdiction.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M066",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 19(1)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May submit proposals for ABMTs/MPAs to the Secretariat, individually or collectively.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M067",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 19(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall collaborate and consult, as appropriate, with relevant stakeholders for the development of proposals.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M068",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 19(3)",
+    "actorholder": "Proponent or Requesting Party",
+    "action": "Duty: Shall formulate proposals on the basis of best available science and, where available, relevant traditional knowledge.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M069",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 19(4)",
+    "actorholder": "Proponent or Requesting Party",
+    "action": "Duty: Shall include specified key elements (e.g., spatial description, criteria, activities, state of environment, draft measures/plan) in proposals.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M070",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 20",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall make proposals publicly available and transmit them for preliminary review.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M071",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 20",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Shall conduct a preliminary review to ascertain required information is included.",
+    "actoraffected": "Proponent or Requesting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M072",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 20",
+    "actorholder": "Proponent or Requesting Party",
+    "action": "Duty: Shall retransmit the proposal taking into account the preliminary review.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M073",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 20",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall notify Parties, make the retransmitted proposal public, and facilitate consultations under Article 21.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M074",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(1)",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall facilitate inclusive, transparent consultations and gather input on proposals.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M075",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(2)(a)",
+    "actorholder": "Coastal States",
+    "action": "Liberty: May submit views and information during consultations (notified/invited).",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M076",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(2)(b)",
+    "actorholder": "Relevant Bodies",
+    "action": "Liberty: May submit views and information within their competence during consultations (invited).",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M077",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(2)(c)",
+    "actorholder": "IPLCs",
+    "action": "Liberty: May submit views and other relevant information during consultations (invited).",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M078",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(5)",
+    "actorholder": "Proponent or Requesting Party",
+    "action": "Duty: Shall take into account comments and, as appropriate, revise the proposal or respond to substantive contributions.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M079",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(7)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Shall assess the revised proposal and make recommendations.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M080",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 21(8)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Power: May elaborate modalities for consultation and assessment for COP consideration and adoption.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M081",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 22(1)(a)",
+    "actorholder": "COP",
+    "action": "Power: Shall take decisions on the establishment of ABMTs/MPAs and related measures.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M082",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 22(1)(b)",
+    "actorholder": "COP",
+    "action": "Power: May take decisions on measures compatible with those of relevant instruments/frameworks/bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M083",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 22(3)",
+    "actorholder": "COP",
+    "action": "Duty: Shall make arrangements for regular consultations to enhance cooperation and coordination with and among relevant bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M084",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 23(1)–(3)",
+    "actorholder": "COP",
+    "action": "Power: May adopt binding decisions/recommendations (consensus; voting rules apply) that enter into force after 120 days.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M085",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 23(4)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May object in writing within 120 days on specified grounds.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M086",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 23(6)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, to the extent practicable, adopt alternative measures equivalent in effect and not undermine decision effectiveness.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M087",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 24(1)",
+    "actorholder": "COP",
+    "action": "Power: Shall adopt emergency measures, if necessary, to prevent exacerbation of serious or irreversible harm in ABNJ.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M088",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 24(5)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Power: May elaborate procedures and guidance for emergency measures for COP consideration/adoption.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M089",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 25(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure ABNJ activities under its jurisdiction/control are conducted consistently with decisions adopted under this Part.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M090",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 25(2)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May adopt more stringent measures with respect to its nationals/vessels or activities under its jurisdiction/control, in accordance with international law.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M091",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 25(6)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall cooperate in conservation and sustainable use of BBNJ even if not member/participant in relevant bodies or measures.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M092",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 26",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall report to the COP on implementation of ABMTs/MPAs and related measures.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M093",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 26",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall make Parties’ reports and related information/reviews publicly available.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M094",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 26",
+    "actorholder": "Relevant Bodies",
+    "action": "Liberty: May provide information to the COP on measures they have adopted to achieve objectives.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M095",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 26",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Shall monitor and periodically review implementation and provide advice and recommendations.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M096",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 26",
+    "actorholder": "COP",
+    "action": "Power: May take decisions/recommendations to amend, extend or revoke ABMTs/MPAs and related measures.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M097",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 28",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure EIA is conducted for planned ABNJ activities under its jurisdiction or control before authorization.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M098",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 28",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure EIA for activities within national jurisdiction that may cause significant harmful changes in ABNJ.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M099",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 29",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall promote use of EIAs and adoption/implementation of Article 38 standards/guidelines in relevant bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M100",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 29",
+    "actorholder": "COP",
+    "action": "Power: Shall develop mechanisms for STB collaboration with relevant bodies under this Part.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M101",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 30",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall conduct screening using specified factors when effects may be more than minor or transitory or are unknown/poorly understood.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M102",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 31",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall undertake screening and make determination publicly available, including through the Clearing-House Mechanism.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M103",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 31",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall identify/assess measures to prevent, mitigate and manage potential adverse effects and, where appropriate, incorporate them into an environmental management plan.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M104",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 32",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure timely public notification of planned activities and time-bound opportunities for participation throughout the EIA process.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M105",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 32",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall consult adjacent Coastal States and provide written responses addressing their comments, including on potential impacts in areas within national jurisdiction.",
+    "actoraffected": "Coastal States"
+  },
+  {
+    "Unique_ID": "BBNJ_M106",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 33",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure preparation of an EIA report that includes the minimum required information.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M107",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 34",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall determine if the planned activity may proceed, taking full account of the EIA, and authorize only after ensuring prevention of significant adverse impacts.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M108",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 34",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make decision documents public, including through the Clearing-House Mechanism.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M109",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 34",
+    "actorholder": "COP",
+    "action": "Power: May provide advice and assistance to a Party upon request when determining whether a planned activity may proceed.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M110",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 35",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall monitor environmental and associated impacts of authorized activities under conditions of approval, using best available science and, where available, relevant traditional knowledge.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M111",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 36",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall periodically report on impacts of authorized activities and monitoring results under Article 35.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M112",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 36",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall make monitoring reports public, including through the Clearing-House Mechanism.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M113",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 36",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Shall consider monitoring reports for the purpose of developing guidelines on monitoring of impacts of authorized activities.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M114",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure that impacts monitored under Article 35 are reviewed.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M115",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Upon identifying significant unforeseen adverse impacts or breach of conditions, shall review the authorization decision and notify COP, other Parties and the public, including through the Clearing-House Mechanism.",
+    "actoraffected": "COP; Other Contracting Parties; Stakeholders; Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M116",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(2)(a)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall require modification, mitigation or cessation of the activity, as appropriate.",
+    "actoraffected": "Proponent or Requesting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M117",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(2)(b)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May suspend the activity.",
+    "actoraffected": "Proponent or Requesting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M118",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall consult potentially most affected States and keep stakeholders informed through the Clearing-House; stakeholders may be consulted in monitoring, reporting and review.",
+    "actoraffected": "Affected Parties; Stakeholders; Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M119",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 37(6)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall publish, including through the Clearing-House Mechanism, (a) review reports and (b) decision documents (with reasons) when a decision is changed.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M120",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 38(1)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Shall develop standards or guidelines on EIA matters (e.g., thresholds, report content, consultation, alternatives) for COP consideration and adoption.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M121",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 38(3)",
+    "actorholder": "COP",
+    "action": "Power: May adopt standards as annexes to the Agreement in accordance with Article 74.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M122",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 39(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall consider conducting strategic environmental assessments for relevant plans and programmes in ABNJ.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M123",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 39(2)",
+    "actorholder": "COP",
+    "action": "Power: May conduct a strategic environmental assessment of an area or region.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M124",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 39(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take into account results of relevant strategic environmental assessments when undertaking EIAs.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M125",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 39(4)",
+    "actorholder": "COP",
+    "action": "Duty: Shall develop guidance on the conduct of each category of strategic environmental assessment.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M126",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 41(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall cooperate to assist Parties, in particular developing States Parties, through capacity-building and the development and transfer of marine technology.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M127",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 41(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall cooperate at all levels and in all forms, including partnerships with stakeholders, such as the private sector, civil society, and IPLCs.",
+    "actoraffected": "Stakeholders; IPLCs"
+  },
+  {
+    "Unique_ID": "BBNJ_M128",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 41(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall give full recognition to the special requirements of developing States Parties (incl. least developed, landlocked, geographically disadvantaged, small island developing States, coastal African, archipelagic, and developing middle-income States) and ensure support is not conditional on onerous reporting.",
+    "actoraffected": "Developing States; Small Island and Vulnerable Countries"
+  },
+  {
+    "Unique_ID": "BBNJ_M129",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(1)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Within capabilities, shall ensure capacity-building for developing States Parties and shall cooperate to achieve the transfer of marine technology.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M130",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall provide, within capabilities, resources to support capacity-building and the development and transfer of marine technology and facilitate access to other sources of support.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M131",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure capacity-building/technology transfer is country-driven, transparent, effective, iterative, participatory, cross-cutting and gender-responsive, building on existing programmes.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M132",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(4)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall base capacity-building/technology transfer on needs/priorities of developing States Parties identified through needs assessments.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M133",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(4)",
+    "actorholder": "Capacity-Building and Technology Transfer Committee",
+    "action": "Power: May facilitate needs assessments for developing States Parties.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M134",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 42(4)",
+    "actorholder": "Clearing-House",
+    "action": "Power: May facilitate needs assessments for developing States Parties.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M135",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 43(2)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure transfer of marine technology on fair and most favourable terms, including concessional and preferential terms, and in accordance with mutually agreed terms.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M136",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 43(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take into account rights over technologies and show due regard for legitimate interests of holders, suppliers and recipients.",
+    "actoraffected": "Private Sector; Resource-Providing Party; Receiving Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M137",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 43(5)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall ensure technology transferred is appropriate, relevant, reliable, affordable, up to date, environmentally sound and accessible for developing States Parties.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M138",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 44(1)",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May provide the indicative types of capacity-building and technology transfer listed (non-exhaustive).",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M139",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 44(3)",
+    "actorholder": "COP",
+    "action": "Duty: Shall periodically review, assess and further develop/provide guidance on the indicative types, taking account of committee recommendations.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M140",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 45(2)",
+    "actorholder": "Capacity-Building and Technology Transfer Committee",
+    "action": "Duty: Shall carry out monitoring and review of capacity-building/technology transfer under COP authority.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M141",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 45(3)",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall submit reports to the Capacity-Building and Technology Transfer Committee (format/intervals set by COP).",
+    "actoraffected": "Capacity-Building and Technology Transfer Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M142",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 45(3)",
+    "actorholder": "COP",
+    "action": "Duty: Shall ensure reporting requirements are streamlined and not onerous, in particular for developing States Parties.",
+    "actoraffected": "Developing States"
+  },
+  {
+    "Unique_ID": "BBNJ_M143",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 46(2)",
+    "actorholder": "COP",
+    "action": "Power: Elects members of the Capacity-Building and Technology Transfer Committee and decides its terms of reference and modalities.",
+    "actoraffected": "Capacity-Building and Technology Transfer Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M144",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 46(2)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May nominate members to the Capacity-Building and Technology Transfer Committee.",
+    "actoraffected": "Capacity-Building and Technology Transfer Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M145",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 46(3)",
+    "actorholder": "Capacity-Building and Technology Transfer Committee",
+    "action": "Duty: Shall submit reports and recommendations for COP consideration/action.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M146",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 47(6)(a)",
+    "actorholder": "COP",
+    "action": "Power: Adopt decisions and recommendations related to the implementation of the Agreement.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M147",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 47(6)(c)",
+    "actorholder": "COP",
+    "action": "Duty: Promote cooperation and coordination with and among relevant legal instruments/frameworks and relevant global, regional, subregional and sectoral bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M148",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 47(6)(d)",
+    "actorholder": "COP",
+    "action": "Power: Establish subsidiary bodies as deemed necessary to support implementation.",
+    "actoraffected": "Subsidiary bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M149",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 47(6)(e)",
+    "actorholder": "COP",
+    "action": "Power: Adopt a budget by a three-fourths majority if consensus efforts are exhausted.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M150",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 47(8)",
+    "actorholder": "COP",
+    "action": "Duty: Periodically assess/review adequacy and effectiveness of Agreement provisions and propose means to strengthen implementation.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M151",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 48(1)",
+    "actorholder": "COP",
+    "action": "Duty: Promote transparency in decision-making processes and other activities under the Agreement.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M152",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 48(2)",
+    "actorholder": "COP",
+    "action": "Duty: Ensure meetings are open to observers unless decided otherwise and publish/maintain a public record of decisions.",
+    "actoraffected": "Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M153",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 48(4)",
+    "actorholder": "COP",
+    "action": "Duty: Provide modalities for observer participation and timely access to information; rules shall not be unduly restrictive.",
+    "actoraffected": "Non-Parties; Relevant Bodies; IPLCs; Stakeholders"
+  },
+  {
+    "Unique_ID": "BBNJ_M154",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 49(2)",
+    "actorholder": "COP",
+    "action": "Power: Elect members of the Scientific and Technical Body and determine its terms of reference and modalities.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M155",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 49(2)",
+    "actorholder": "Contracting Party",
+    "action": "Power: May nominate members to the Scientific and Technical Body.",
+    "actoraffected": "Scientific and Technical Body"
+  },
+  {
+    "Unique_ID": "BBNJ_M156",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 49(4)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Duty: Provide scientific and technical advice to the COP, perform assigned functions and report on its work.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M157",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 49(3)",
+    "actorholder": "Scientific and Technical Body",
+    "action": "Power: May seek information from relevant instruments/frameworks/bodies and from other scientists and experts.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M158",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 50(1)",
+    "actorholder": "COP",
+    "action": "Power: Make arrangements for the functioning of the Secretariat, including deciding its seat, at the first COP meeting.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M159",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 50(3)(f)",
+    "actorholder": "Secretariat",
+    "action": "Duty: Provide assistance with implementation and perform other functions as determined by the COP or assigned under the Agreement.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M160",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 51",
+    "actorholder": "Clearing-House",
+    "action": "Duty: Shall serve as a centralized open-access platform to enable Parties to access, provide and disseminate information specified under this Agreement.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M161",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 51",
+    "actorholder": "COP",
+    "action": "Power: May determine the specific modalities for the operation of the Clearing-House Mechanism.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M162",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 51",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall manage the Clearing-House Mechanism.",
+    "actoraffected": "Clearing-House"
+  },
+  {
+    "Unique_ID": "BBNJ_M163",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 51",
+    "actorholder": "Clearing-House",
+    "action": "Duty: Shall foster enhanced transparency and facilitate international cooperation and collaboration, including scientific and technical cooperation.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M164",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 52",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall, within its capabilities, provide resources for activities intended to achieve the objectives of the Agreement.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M165",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 52",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall fund institutions established under the Agreement through assessed contributions.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M166",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 52",
+    "actorholder": "COP",
+    "action": "Power: May consider establishing additional funds as part of the financial mechanism.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M168",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 53",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall take the necessary legislative, administrative or policy measures to ensure implementation of the Agreement.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M169",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 54",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall monitor implementation of its obligations under the Agreement.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M170",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 54",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall report to the COP, in the format and at intervals determined by the COP, on measures taken to implement the Agreement.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M171",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 55",
+    "actorholder": "COP",
+    "action": "Power: Elects members of the Implementation and Compliance Committee nominated by Parties.",
+    "actoraffected": "Implementation and Compliance Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M172",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 55",
+    "actorholder": "Contracting Party",
+    "action": "Power: May nominate members to the Implementation and Compliance Committee.",
+    "actoraffected": "Implementation and Compliance Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M173",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 55",
+    "actorholder": "COP",
+    "action": "Power: Adopts the modalities and rules of procedure for the Implementation and Compliance Committee.",
+    "actoraffected": "Implementation and Compliance Committee"
+  },
+  {
+    "Unique_ID": "BBNJ_M174",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 55",
+    "actorholder": "Implementation and Compliance Committee",
+    "action": "Duty: Shall consider issues of implementation and compliance and report/recommend to the COP.",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M175",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 55",
+    "actorholder": "Implementation and Compliance Committee",
+    "action": "Power: May draw on appropriate information from bodies established under the Agreement and from relevant instruments/frameworks and bodies.",
+    "actoraffected": "Relevant Bodies"
+  },
+  {
+    "Unique_ID": "BBNJ_M176",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 56",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall cooperate in order to prevent disputes.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M177",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 57",
+    "actorholder": "Disputing Parties",
+    "action": "Duty: Shall settle disputes by peaceful means (negotiation, inquiry, mediation, conciliation, arbitration, judicial settlement, regional arrangements, or other peaceful means).",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M178",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 58",
+    "actorholder": "Disputing Parties",
+    "action": "Liberty: May agree at any time to settle a dispute by any peaceful means of their own choice.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M179",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 59",
+    "actorholder": "Disputing Parties",
+    "action": "Liberty: May refer a technical dispute to an ad hoc expert panel established by them.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M180",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 60",
+    "actorholder": "Disputing Parties",
+    "action": "Duty: Shall settle disputes in accordance with the procedures provided for in Part XV of the Convention.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M181",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 60",
+    "actorholder": "Contracting Party",
+    "action": "Power: May choose, by written declaration, one or more procedures (ITLOS, ICJ, Annex VII arbitration, Annex VIII special arbitration) for dispute settlement.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M182",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 61",
+    "actorholder": "Disputing Parties",
+    "action": "Duty: Shall make every effort to enter into provisional arrangements of a practical nature pending settlement of the dispute.",
+    "actoraffected": "Disputing Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M183",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 62",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall encourage non-parties to this Agreement to become Parties thereto.",
+    "actoraffected": "Non-Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M184",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 63",
+    "actorholder": "Contracting Party",
+    "action": "Duty: Shall fulfil obligations in good faith and exercise rights in a manner that would not constitute an abuse of right.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M185",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 64",
+    "actorholder": "Contracting Party",
+    "action": "Liberty: May vote (one vote per Party).",
+    "actoraffected": "COP"
+  },
+  {
+    "Unique_ID": "BBNJ_M189",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 69",
+    "actorholder": "Non-Parties",
+    "action": "Power: May apply the Agreement provisionally by written notification at the time of signature or of deposit of an instrument of ratification, approval, acceptance or accession.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M190",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 70",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Cannot make reservations or exceptions to this Agreement unless expressly permitted by other articles.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M191",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 71",
+    "actorholder": "Contracting Party",
+    "action": "Disability: Declarations or statements shall not purport to exclude or modify the legal effect of the Agreement’s provisions.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M192",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 72",
+    "actorholder": "Contracting Party",
+    "action": "Power: May propose amendments by written communication addressed to the Secretariat.",
+    "actoraffected": "Secretariat"
+  },
+  {
+    "Unique_ID": "BBNJ_M193",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 72",
+    "actorholder": "Secretariat",
+    "action": "Duty: Shall circulate proposed amendments to all Parties.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M194",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 72",
+    "actorholder": "COP",
+    "action": "Power: May adopt amendments in accordance with Article 47.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M195",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 73",
+    "actorholder": "Contracting Party",
+    "action": "Power: May denounce this Agreement by written notification; denunciation takes effect after the specified period.",
+    "actoraffected": "Other Contracting Parties"
+  },
+  {
+    "Unique_ID": "BBNJ_M196",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 74",
+    "actorholder": "COP",
+    "action": "Power: May amend annexes; annex procedures on proposal/adoption/entry into force apply as provided.",
+    "actoraffected": "Contracting Party"
+  },
+  {
+    "Unique_ID": "BBNJ_M197",
+    "Treaty": "BBNJ",
+    "provision": "BBNJ, Article 74",
+    "actorholder": "Contracting Party",
+    "action": "Power: May propose an amendment to any annex for consideration at the next COP meeting.",
+    "actoraffected": "COP"
+  }
+]
