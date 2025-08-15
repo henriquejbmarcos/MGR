@@ -1,178 +1,174 @@
 ﻿[
   {
-    "Column1": "actor_name",
-    "Column2": "actor_definition"
+    "actor_name": "Access and Benefit-Sharing Committee",
+    "actor_definition": "The treaty body under the BBNJ Agreement mandated to oversee compliance with access and benefit‑sharing provisions and make recommendations to the COP."
   },
   {
-    "Column1": "Access and Benefit-Sharing Committee",
-    "Column2": "The treaty body under the BBNJ Agreement mandated to oversee compliance with access and benefit‑sharing provisions and make recommendations to the COP."
+    "actor_name": "Affected Parties",
+    "actor_definition": "Groups whose cultural, economic, or environmental interests are directly impacted by the collection or use of MGRs or associated traditional knowledge."
   },
   {
-    "Column1": "Affected Parties",
-    "Column2": "Groups whose cultural, economic, or environmental interests are directly impacted by the collection or use of MGRs or associated traditional knowledge."
+    "actor_name": "COP",
+    "actor_definition": "Conference of the Parties: The supreme decision‑making body of a treaty regime composed of all states that are parties to the agreement."
   },
   {
-    "Column1": "COP",
-    "Column2": "Conference of the Parties: The supreme decision‑making body of a treaty regime composed of all states that are parties to the agreement."
+    "actor_name": "Capacity-Building and Technology Transfer Committee",
+    "actor_definition": "A BBNJ body tasked with facilitating capacity development and equitable transfer of marine technology among parties."
   },
   {
-    "Column1": "Capacity-Building and Technology Transfer Committee",
-    "Column2": "A BBNJ body tasked with facilitating capacity development and equitable transfer of marine technology among parties."
+    "actor_name": "Clearing‑House",
+    "actor_definition": "The information‑sharing mechanism established to receive, store, and disseminate data on MGR activities, benefit‑sharing, and compliance."
   },
   {
-    "Column1": "Clearing‑House",
-    "Column2": "The information‑sharing mechanism established to receive, store, and disseminate data on MGR activities, benefit‑sharing, and compliance."
+    "actor_name": "Coastal States",
+    "actor_definition": "States with sovereignty or sovereign rights over maritime zones adjacent to their coasts under UNCLOS."
   },
   {
-    "Column1": "Coastal States",
-    "Column2": "States with sovereignty or sovereign rights over maritime zones adjacent to their coasts under UNCLOS."
+    "actor_name": "Competent National Authority",
+    "actor_definition": "The national‑level administrative entity designated to authorise, monitor, and enforce access to MGRs and benefit‑sharing obligations."
   },
   {
-    "Column1": "Competent National Authority",
-    "Column2": "The national‑level administrative entity designated to authorise, monitor, and enforce access to MGRs and benefit‑sharing obligations."
+    "actor_name": "Concerned Parties",
+    "actor_definition": "Treaty parties with a demonstrated interest or stake in a particular matter, whether or not they are directly involved in the activity."
   },
   {
-    "Column1": "Concerned Parties",
-    "Column2": "Treaty parties with a demonstrated interest or stake in a particular matter, whether or not they are directly involved in the activity."
+    "actor_name": "Contracting Party",
+    "actor_definition": "A state or regional organisation that has ratified, accepted, or acceded to a treaty and is bound by its terms."
   },
   {
-    "Column1": "Contracting Party",
-    "Column2": "A state or regional organisation that has ratified, accepted, or acceded to a treaty and is bound by its terms."
+    "actor_name": "Developed States",
+    "actor_definition": "High‑income states with advanced technological capacity and infrastructure relevant to MGR exploitation."
   },
   {
-    "Column1": "Developed States",
-    "Column2": "High‑income states with advanced technological capacity and infrastructure relevant to MGR exploitation."
+    "actor_name": "Developing States",
+    "actor_definition": "States with lower economic and technological capacity, often prioritising equitable benefit‑sharing from MGR use."
   },
   {
-    "Column1": "Developing States",
-    "Column2": "States with lower economic and technological capacity, often prioritising equitable benefit‑sharing from MGR use."
+    "actor_name": "Disputing Parties",
+    "actor_definition": "States or other recognised treaty participants engaged in a formal dispute over treaty interpretation or application."
   },
   {
-    "Column1": "Disputing Parties",
-    "Column2": "States or other recognised treaty participants engaged in a formal dispute over treaty interpretation or application."
+    "actor_name": "Global Biodiversity",
+    "actor_definition": "The total diversity of species, genes, and ecosystems worldwide, including those in areas beyond national jurisdiction."
   },
   {
-    "Column1": "Global Biodiversity",
-    "Column2": "The total diversity of species, genes, and ecosystems worldwide, including those in areas beyond national jurisdiction."
+    "actor_name": "Global Food and Agriculture Stakeholders",
+    "actor_definition": "International actors engaged in agricultural and food‑security sectors with an interest in genetic resources."
   },
   {
-    "Column1": "Global Food and Agriculture Stakeholders",
-    "Column2": "International actors engaged in agricultural and food‑security sectors with an interest in genetic resources."
+    "actor_name": "Global regulatory bodies",
+    "actor_definition": "International organisations with authority to regulate or coordinate governance relevant to MGRs."
   },
   {
-    "Column1": "Global regulatory bodies",
-    "Column2": "International organisations with authority to regulate or coordinate governance relevant to MGRs."
+    "actor_name": "Global users of regulatory information",
+    "actor_definition": "Actors worldwide that rely on treaty‑mandated data and decisions to inform their activities."
   },
   {
-    "Column1": "Global users of regulatory information",
-    "Column2": "Actors worldwide that rely on treaty‑mandated data and decisions to inform their activities."
+    "actor_name": "Government",
+    "actor_definition": "The political and administrative authority of a state, responsible for implementing treaty obligations."
   },
   {
-    "Column1": "Government",
-    "Column2": "The political and administrative authority of a state, responsible for implementing treaty obligations."
+    "actor_name": "IPLCs",
+    "actor_definition": "Indigenous Peoples and Local Communities:  Distinct peoples and communities with customary rights, knowledge systems, and cultural practices linked to marine biodiversity."
   },
   {
-    "Column1": "IPLCs",
-    "Column2": "Indigenous Peoples and Local Communities:  Distinct peoples and communities with customary rights, knowledge systems, and cultural practices linked to marine biodiversity."
+    "actor_name": "Implementation and Compliance Committee",
+    "actor_definition": "The treaty body responsible for monitoring, facilitating, and promoting state compliance with treaty obligations."
   },
   {
-    "Column1": "Implementation and Compliance Committee",
-    "Column2": "The treaty body responsible for monitoring, facilitating, and promoting state compliance with treaty obligations."
+    "actor_name": "Institutional Bodies",
+    "actor_definition": "Organisational entities established by a treaty to carry out its governance functions."
   },
   {
-    "Column1": "Institutional Bodies",
-    "Column2": "Organisational entities established by a treaty to carry out its governance functions."
+    "actor_name": "Least Developed Countries",
+    "actor_definition": "States identified by the UN as having the lowest indicators of socioeconomic development and capacity."
   },
   {
-    "Column1": "Least Developed Countries",
-    "Column2": "States identified by the UN as having the lowest indicators of socioeconomic development and capacity."
+    "actor_name": "Military Actors",
+    "actor_definition": "State armed forces or defence agencies conducting activities with implications for MGR governance."
   },
   {
-    "Column1": "Military Actors",
-    "Column2": "State armed forces or defence agencies conducting activities with implications for MGR governance."
+    "actor_name": "National Focal Point",
+    "actor_definition": "The designated contact within a state for communication and coordination under a treaty framework."
   },
   {
-    "Column1": "National Focal Point",
-    "Column2": "The designated contact within a state for communication and coordination under a treaty framework."
+    "actor_name": "National authorities",
+    "actor_definition": "Governmental entities responsible for domestic implementation and enforcement of treaty provisions."
   },
   {
-    "Column1": "National authorities",
-    "Column2": "Governmental entities responsible for domestic implementation and enforcement of treaty provisions."
+    "actor_name": "National or Civil Society Stakeholders",
+    "actor_definition": "Domestic governmental and non‑governmental actors with an interest in MGR governance."
   },
   {
-    "Column1": "National or Civil Society Stakeholders",
-    "Column2": "Domestic governmental and non‑governmental actors with an interest in MGR governance."
+    "actor_name": "Non‑Parties",
+    "actor_definition": "States or entities that have not ratified a treaty and are not legally bound by its provisions."
   },
   {
-    "Column1": "Non‑Parties",
-    "Column2": "States or entities that have not ratified a treaty and are not legally bound by its provisions."
+    "actor_name": "Other Contracting Parties",
+    "actor_definition": "A state or regional organisation that has ratified, accepted, or acceded to the same treaty and is bound by its terms, acting as the affected party in relation to the contracting party in a given provision (actor-affected)."
   },
   {
-    "Column1": "Other Contracting Parties",
-    "Column2": "A state or regional organisation that has ratified, accepted, or acceded to the same treaty and is bound by its terms, acting as the affected party in relation to the contracting party in a given provision (actor-affected)."
+    "actor_name": "Patent holders",
+    "actor_definition": "Persons or entities holding legal rights to inventions involving MGRs or their derivatives."
   },
   {
-    "Column1": "Patent holders",
-    "Column2": "Persons or entities holding legal rights to inventions involving MGRs or their derivatives."
+    "actor_name": "Potential applicants",
+    "actor_definition": "Actors intending to seek authorisation for access to MGRs."
   },
   {
-    "Column1": "Potential applicants",
-    "Column2": "Actors intending to seek authorisation for access to MGRs."
+    "actor_name": "Private Sector",
+    "actor_definition": "For‑profit corporations and commercial entities engaged in MGR‑related research, development, or utilisation."
   },
   {
-    "Column1": "Private Sector",
-    "Column2": "For‑profit corporations and commercial entities engaged in MGR‑related research, development, or utilisation."
+    "actor_name": "Proponent or Requesting Party",
+    "actor_definition": "The actor formally seeking access to MGRs or authorisation for a related activity."
   },
   {
-    "Column1": "Proponent or Requesting Party",
-    "Column2": "The actor formally seeking access to MGRs or authorisation for a related activity."
+    "actor_name": "Receiving Party",
+    "actor_definition": "The state or entity obtaining MGRs, associated DSI, or benefits under an access agreement."
   },
   {
-    "Column1": "Receiving Party",
-    "Column2": "The state or entity obtaining MGRs, associated DSI, or benefits under an access agreement."
+    "actor_name": "Regulatory authorities",
+    "actor_definition": "Domestic or international bodies with legal competence to oversee and enforce rules on MGR activities."
   },
   {
-    "Column1": "Regulatory authorities",
-    "Column2": "Domestic or international bodies with legal competence to oversee and enforce rules on MGR activities."
+    "actor_name": "Relevant Bodies",
+    "actor_definition": "Treaties, agreements, and institutional mechanisms applicable to MGR governance."
   },
   {
-    "Column1": "Relevant Bodies",
-    "Column2": "Treaties, agreements, and institutional mechanisms applicable to MGR governance."
+    "actor_name": "Requesting Party",
+    "actor_definition": "The actor submitting a formal request for access to MGRs or related permissions."
   },
   {
-    "Column1": "Requesting Party",
-    "Column2": "The actor submitting a formal request for access to MGRs or related permissions."
+    "actor_name": "Researchers",
+    "actor_definition": "Individuals or organisations conducting scientific investigations involving MGRs."
   },
   {
-    "Column1": "Researchers",
-    "Column2": "Individuals or organisations conducting scientific investigations involving MGRs."
+    "actor_name": "Resource Users",
+    "actor_definition": "Actors directly utilising MGRs for research, development, or commercial purposes."
   },
   {
-    "Column1": "Resource Users",
-    "Column2": "Actors directly utilising MGRs for research, development, or commercial purposes."
+    "actor_name": "Resource‑Providing Party",
+    "actor_definition": "Any actor furnishing MGRs to others under applicable legal regimes."
   },
   {
-    "Column1": "Resource‑Providing Party",
-    "Column2": "Any actor furnishing MGRs to others under applicable legal regimes."
+    "actor_name": "Scientific and Technical Body",
+    "actor_definition": "The advisory body under the BBNJ Agreement mandated to provide expert input on scientific and technical matters."
   },
   {
-    "Column1": "Scientific and Technical Body",
-    "Column2": "The advisory body under the BBNJ Agreement mandated to provide expert input on scientific and technical matters."
+    "actor_name": "Secretariat",
+    "actor_definition": "The administrative organ servicing a treaty and its institutional bodies."
   },
   {
-    "Column1": "Secretariat",
-    "Column2": "The administrative organ servicing a treaty and its institutional bodies."
+    "actor_name": "Small Island and Vulnerable Countries",
+    "actor_definition": "States particularly susceptible to environmental and economic shocks affecting marine biodiversity."
   },
   {
-    "Column1": "Small Island and Vulnerable Countries",
-    "Column2": "States particularly susceptible to environmental and economic shocks affecting marine biodiversity."
+    "actor_name": "Stakeholders",
+    "actor_definition": "Any actors with a direct or indirect interest in MGR governance outcomes."
   },
   {
-    "Column1": "Stakeholders",
-    "Column2": "Any actors with a direct or indirect interest in MGR governance outcomes."
-  },
-  {
-    "Column1": "Subsidiary bodies",
-    "Column2": "The collective set of all such specialised bodies under a treaty framework."
+    "actor_name": "Subsidiary bodies",
+    "actor_definition": "The collective set of all such specialised bodies under a treaty framework."
   }
 ]
